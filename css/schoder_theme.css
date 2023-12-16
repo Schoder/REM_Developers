@@ -104,10 +104,12 @@ h1 {
 }
 
 
-my.footer {
-  background-image: <i class='fa fa-creative-commons' style='color:#232461' aria-hidden="true"></i>;
-}
 
+
+/* Layout Quellen-Folie  */
+.ref-slide {
+  font-size: 12px;
+}
 
 
 /* Farben*/

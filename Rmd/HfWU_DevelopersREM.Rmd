@@ -1171,8 +1171,10 @@ knitr::include_graphics('../img/EnergySavingCostCurve_Best_(BPIE_2015_S9).png')
 ---
 class: left
 
-# References (all on one page)
+# Quellenverzeichnis
 
+.ref-slide[
 ```{r, results='asis', echo=FALSE, warning=FALSE}
 PrintBibliography(bib)
 ```
+]
