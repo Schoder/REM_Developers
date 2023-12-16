@@ -1,0 +1,121 @@
+Statistik_Code;Statistik_Label;Zeit_Code;Zeit_Label;Zeit;1_Merkmal_Code;1_Merkmal_Label;1_Auspraegung_Code;1_Auspraegung_Label;2_Merkmal_Code;2_Merkmal_Label;2_Auspraegung_Code;2_Auspraegung_Label;BAU006__Gebaeude/Gebaeudeteile__Anzahl;FLC002__Nutzflaeche__1000_qm;FLC001__Wohnflaeche__1000_qm;WOHN01__Wohnungen__Anzahl
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;90;26;112;3442
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;234;420;4;88
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;1183;1417;37;500
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;3354;963;66;598
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;5313;4246;119;1383
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1568;1975;32;333
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;850;646;41;490
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1575;1049;16;171
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;598;315;24;294
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1324;827;22;258
+31141;Statistik des Bauabgangs;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;18701;8319;2033;27630
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;80;14;79;2461
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;262;454;2;46
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;1170;1392;31;351
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;3256;970;63;550
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;5488;4374;134;1510
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1617;1785;28;301
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;927;767;46;501
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1512;1157;19;231
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;674;411;33;392
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1306;811;22;277
+31141;Statistik des Bauabgangs;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;19207;8423;1991;25810
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;81;22;63;2059
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;189;431;5;174
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;984;893;29;400
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;3080;882;75;619
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4887;3894;132;1535
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1413;1649;27;281
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;839;715;58;696
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1364;917;17;177
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;554;334;26;328
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1175;734;17;186
+31141;Statistik des Bauabgangs;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;17543;7233;1906;24867
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;71;14;70;2000
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;180;306;4;56
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;983;1136;37;459
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;2914;870;61;530
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4758;4007;111;1299
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1577;1679;26;279
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;729;684;33;399
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1279;1027;20;194
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;499;298;25;330
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1169;735;19;231
+31141;Statistik des Bauabgangs;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;17359;7476;1945;24234
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;77;23;77;2633
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;183;343;7;210
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;853;1097;30;347
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;2592;783;59;494
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4287;3605;111;1307
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1233;1392;24;255
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;687;716;33;406
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1230;892;18;180
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;473;237;30;374
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1063;681;21;238
+31141;Statistik des Bauabgangs;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;15157;6858;1577;20969
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;53;12;30;909
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;169;348;2;26
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;830;849;34;428
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;2775;803;67;599
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4276;3072;117;1315
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1297;1495;30;315
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;718;496;41;504
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1121;596;15;151
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;507;238;26;297
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1077;641;27;318
+31141;Statistik des Bauabgangs;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;14814;6035;1437;17954
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;66;17;57;1701
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;167;331;7;197
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;878;990;32;373
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;3076;817;72;617
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4616;3192;126;1454
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1212;1069;25;251
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;710;552;42;504
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1352;921;21;238
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;575;348;31;369
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;1029;620;24;271
+31141;Statistik des Bauabgangs;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;15425;6270;1451;18470
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW01;  Wohngebäude mit 1 Wohnung;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW02;  Wohngebäude mit 2 Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBW03UM;  Wohngebäude mit 3 oder mehr Wohnungen;x;x;x;x
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNHEIM;  Wohnheime;46;8;46;1169
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;WOHNGEBMETW;  Wohngebäude mit Eigentumswohnungen;-;-;-;-
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBANSTALT01;  Anstaltsgebäude;132;218;1;12
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBUERO01;  Büro- und Verwaltungsgebäude;841;803;36;464
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRLW01;  Landwirtschaftliche Betriebsgebäude;2728;850;74;639
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBBETRNLW01;  Nichtlandwirtschaftliche Betriebsgebäude;4046;3106;118;1342
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBFABRIK01;  Fabrik- und Werkstattgebäude;1087;1196;29;296
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBHANDEL01;  Handelsgebäude;579;398;33;398
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBLAGER01;  Warenlagergebäude;1191;922;18;212
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;HOTELSGAST;  Hotels und Gaststätten;541;307;32;376
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;GEBNWOHNSONST01;  Sonstige Nichtwohngebäude;859;495;18;211
+31141;Statistik des Bauabgangs;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;BAUGB4;Gebäudeart;;Insgesamt;13618;5752;1297;16495

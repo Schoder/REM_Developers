@@ -1,0 +1,109 @@
+---
+title: "Europäische Immobilienmärkte"
+subtitle: "Aktuelle Entwicklungen, langfristige Trends und Forschungsideen"
+author: "Prof. Dr. Jörg Schoder"
+institute: "" 
+date: "`r Sys.Date()`"
+bibliography: ../lit/RealEstate.json
+reference-section-title: Quellenverzeichnis
+output:
+  xaringan::moon_reader:
+    lib_dir: ../libs
+    css:
+      - xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%/%total%"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    seal: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(fontawesome)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1c5253", 
+  secondary_color = "#03A696",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google = google_font("Montserrat", "300", "300i"),
+  code_font_google = google_font("Fira Mono")
+  )
+```
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "red", location = "bottom")
+xaringanExtra::use_xaringan_extra(c("tile_view","scribble","panelset","tachyons"))
+xaringanExtra::style_panelset_tabs(font_family = "inherit")
+#xaringanExtra::use_search(show_icon = TRUE)
+#weitere: "share_again","animate_css", "webcam","freezeframe","clipboard","fit_screen","extra-styles" 
+xaringanExtra::use_editable(expires = 1)
+```
+
+
+
+
+
+# Europäische Immobilienmärkte
+
+## Aktuelle Entwicklungen, langfristige Trends und Forschungsideen
+
+### Prof. Dr. Jörg Schoder
+`r fa('github')` @Schoder
+`r fa('linkedin')` @jfschoder
+
+#### ZHAW Winterthur am 27.05.2023  
+
+---
+layout: true
+
+<div class="my-footer"></div>       
+
+<div style="position: absolute;left:400px;bottom:10px;font-size:9px">`r r2symbols::sym('copyright')``r rmarkdown::metadata$author`</div>
+
+
+
+
+
+---
+name: Kerninflation
+class: left
+
+# Headline- vs. Kerninflation (HVPI)
+
+```{r,echo=FALSE,message=FALSE}
+source(xfun::from_root("R","Kerninflation.R"))
+htmltools::save_html(p,file=xfun::from_root("img","headline-core.html"))
+```
+
+<iframe src="../img/headline-core.html" width="1000" height="550" scrolling="yes" seamless="seamless" frameBorder="0"> </iframe>
+
+.quelle[Eigene Darstellung.]
+
+---
+name: inter
+class: inverse, center
+
+# Gliederungsfolie
+
+---
+name: stoxx
+class: left
+
+# STOXX 600 Europe Real Estate
+
+```{r stoxx,fig.align='center',out.width='100%)'}
+source(xfun::from_root("R/STOXX600RE.R"))
+```
+
+
+---
+name: EndHanks
+class: center
+
+background-size: 75%
+background-image: url(https://media.giphy.com/media/KJ1f5iTl4Oo7u/giphy.gif)

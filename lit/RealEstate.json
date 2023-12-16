@@ -1,0 +1,2810 @@
+[
+	{
+		"id": "plosl_was_2022",
+		"type": "report",
+		"collection-title": "IREBS Immobilienakademie in Kooperation mit KPMG",
+		"page": "46",
+		"title": "Was wissen wir über Assetklassen? Zwischen den Zeilen: Textanalyse als Instrument der Konjunkturanalyse",
+		"author": [
+			{
+				"family": "Plößl",
+				"given": "Franziska"
+			},
+			{
+				"family": "Just",
+				"given": "Tobias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "chen_housing_2020",
+		"type": "article-journal",
+		"container-title": "Housing Policy Debate",
+		"DOI": "10.1080/10511482.2020.1714691",
+		"ISSN": "1051-1482, 2152-050X",
+		"issue": "4",
+		"journalAbbreviation": "Housing Policy Debate",
+		"language": "en",
+		"page": "623-639",
+		"source": "DOI.org (Crossref)",
+		"title": "“Housing Prices Never Fall”: The Development of Housing Finance in Taiwan",
+		"title-short": "“Housing Prices Never Fall”",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/10511482.2020.1714691",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Yi-Ling"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "gau_financial_1980",
+		"type": "article-journal",
+		"abstract": "This paper introduces a linear programming model that can be used in the financial planning and management of large multiple-use real estate developments. It considers the market and financial constraints influencing a development and estimates a development/construction schedule that optimizes the profitability of a real estate project. The paper presents an actual application of the model as well.",
+		"container-title": "Financial Management",
+		"DOI": "10.2307/3665312",
+		"ISSN": "0046-3892",
+		"issue": "1",
+		"note": "publisher: [Financial Management Association International, Wiley]",
+		"page": "46-52",
+		"source": "JSTOR",
+		"title": "The Financial Planning and Management of Real Estate Developments",
+		"URL": "https://www.jstor.org/stable/3665312",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Gau",
+				"given": "George W."
+			},
+			{
+				"family": "Kohlhepp",
+				"given": "Daniel B."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "jiao_risk_2021",
+		"type": "article-journal",
+		"abstract": "Financial management is mainly to effectively control the form of enterprise value and the movement of capital, which runs through all the business activities of the enterprise. Enterprises should take financial management as the core, which is not only the need of long-term stable development of enterprises, but also the internal demand for enterprises to deepen the reform. With the increasing trend of economic globalization and the increasingly fierce market competition, the traditional financial management of real estate enterprises has put forward higher requirements. This paper first analyzes the outstanding problems in the financial management of real estate enterprises, and then puts forward specific Suggestions for improvement.",
+		"container-title": "Journal of Physics: Conference Series",
+		"DOI": "10.1088/1742-6596/1744/4/042012",
+		"ISSN": "1742-6596",
+		"issue": "4",
+		"journalAbbreviation": "J. Phys.: Conf. Ser.",
+		"language": "en",
+		"note": "publisher: IOP Publishing",
+		"page": "042012",
+		"source": "Institute of Physics",
+		"title": "Risk Prevention and Control of Real Estate Financial Management Based on Computerized Financial Accounting",
+		"URL": "https://doi.org/10.1088/1742-6596/1744/4/042012",
+		"volume": "1744",
+		"author": [
+			{
+				"family": "Jiao",
+				"given": "Wenhao"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "muczynski_integrated_2015-1",
+		"type": "article-journal",
+		"abstract": "Real estate management activities evolved with the development of the real estate industry, the needs of property investors and general changes in the market environment. Today, these activities require a comprehensive approach on the one hand, but on the other, are more and more specialized. The paper presents an integrated view of real estate management on the example of a multidimensional basic concept of real estate management developed under German market conditions. Detailed analysis of this concept was preceded by a review of approaches to real estate management made on the basis of literature and own research. It was on this basis that opportunities and application fields of the integrated model of real estate management in Polish market conditions were characterized. The presented concept can be used both as a raster to harmonize real estate management activities and tasks in business practice, as well as a classification scheme for the evaluation of scientific research. This concept is an important step on the way to structuring and organizing real estate management as a professional service according to the indications of management science.",
+		"container-title": "Real Estate Management and Valuation",
+		"DOI": "10.1515/remav-2015-0011",
+		"journalAbbreviation": "Real Estate Management and Valuation",
+		"source": "ResearchGate",
+		"title": "An Integrated Approach to Real Estate (Porfolio) Management",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Muczyński",
+				"given": "Andrzej"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "fabozzi_property_2010-1",
+		"type": "article-journal",
+		"abstract": "Although property markets represent a large proportion of total wealth in developed countries, the real-estate derivatives markets are still lagging behind in volume of trading and liquidity. Over the last few years there has been increased activity in developing derivative instruments that can be utilised by asset managers. In this paper, we discuss the problems encountered when using property derivatives for managing European real-estate risk. We also consider a special class of structured interest rate swaps that have embedded real-estate risk and propose a more efficient way to tailor these swaps.",
+		"container-title": "European Financial Management",
+		"DOI": "10.1111/j.1468-036X.2009.00528.x",
+		"ISSN": "1468-036X",
+		"issue": "1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-036X.2009.00528.x",
+		"page": "8-26",
+		"source": "Wiley Online Library",
+		"title": "Property Derivatives for Managing European Real-Estate Risk",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-036X.2009.00528.x",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Fabozzi",
+				"given": "Frank J."
+			},
+			{
+				"family": "Shiller",
+				"given": "Robert J."
+			},
+			{
+				"family": "Tunaru",
+				"given": "Radu S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "lusht_real_1988",
+		"type": "article-journal",
+		"abstract": "The state-of-the-art with respect to pricing real estate is similar to that with respect to pricing securities just prior to the development of the CAPM. Reading the entrails of real estate markets, however, has proven a formidable task, and the problem is not limited to inadequate data. Perhaps the most important lesson to date is that available pricing models are not up to the task.",
+		"container-title": "Real Estate Economics",
+		"DOI": "10.1111/1540-6229.00448",
+		"ISSN": "1540-6229",
+		"issue": "2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1540-6229.00448",
+		"page": "95-104",
+		"source": "Wiley Online Library",
+		"title": "The Real Estate Pricing Puzzle",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1540-6229.00448",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Lusht",
+				"given": "Kenneth M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "cheng_real_nodate",
+		"type": "document",
+		"abstract": "For decades, performance comparisons between real estate and financial assets have repeatedly indicated that private real estate investment exhibits significantly higher risk-adjusted returns than publicly traded financial assets such as common stocks. That is, there is an apparent “real estate risk premium puzzle. ” In this paper, we find that the seemingly superior risk-adjusted returns of real estate may be caused by inappropriate adoption of the conventional risk measure to real estate, a measure that completely ignores the non-i.i.d. nature of the asset’s return distribution, as well as its illiquidity risk. We develop a modified performance measure—a Sharpe ratio for real estate—to capture the time-dependent nature of real estate risk by incorporating illiquidity risk in a closed-form formula. Our finding shows that, once the real estate risk is properly measured, the long-standing “real estate risk premium puzzle ” no longer exists. Our approach also shows that real estate price risk over time can be accurately obtained through empirical estimation without relying on a simplification assumption of a particular distribution like the i.i.d. assumption.",
+		"source": "CiteSeer",
+		"title": "The Real Estate Risk Premium Puzzle: A Solution",
+		"title-short": "The Real Estate Risk Premium Puzzle",
+		"author": [
+			{
+				"family": "Cheng",
+				"given": "Ping"
+			},
+			{
+				"family": "Lin",
+				"given": "Zhenguo"
+			},
+			{
+				"family": "Liu",
+				"given": "Yingchun"
+			}
+		]
+	},
+	{
+		"id": "liu_analysis_nodate",
+		"type": "article-journal",
+		"abstract": "Financial management plays an important role in business management. In the modern economic market, the management of finances is essential if an enterprise is to be competitive. Financial management ensures the flow of funds and plays an important role in the strategic deployment of the enterprise. In the new environment, the objective of financial management is gradually transformed from the original 'profit maximisation' to value maximisation. In the real estate industry, financial management can help enterprises to find quick responses to the problems caused by market regulation and taxation in the new economic environment. Therefore, this paper takes GPT Group and Vicinity Limited as the research object, through the qualitative and quantitative analysis of financial indicators, to study the performance and development trends of Australian real estate companies. The results show that GPT companies outperform Vicinity Group in most financial indicators such as profitability, liquidity, growth trends, etc. The research conclusion of this paper provides theoretical ideas for the company's management and development, and provides theoretical support for the practice of real estate industry.",
+		"language": "en",
+		"page": "12",
+		"source": "Zotero",
+		"title": "Analysis of Financial Management in New Perspective - a case of real estate companies",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Yuwen"
+			},
+			{
+				"family": "Man",
+				"given": "Yinong"
+			},
+			{
+				"family": "Shi",
+				"given": "Ruobing"
+			}
+		]
+	},
+	{
+		"id": "feng_relationship_nodate",
+		"type": "article-journal",
+		"abstract": "After experiencing a roller coaster era of price rocketing and plumping, the development of China’s real estate industry will tend to be stable under the government’s macroeconomic control, which needs more effective financial management methods. This paper applies factor analysis to analyze the relationship between capital structure and financial performance of real estate listed companies in Shanghai Stock Exchange from 2010 to 2012, which concludes that the capital structure of real estate listed companies is negatively related to its financial performance, and provides related suggestions on optimization of capital structure.",
+		"container-title": "Journal of Finance and Economics",
+		"language": "en",
+		"page": "5",
+		"source": "Zotero",
+		"title": "The Relationship between Capital Structure and Financial Performance of China’s Real Estate Listed Companies",
+		"author": [
+			{
+				"family": "Feng",
+				"given": "Yazhu"
+			},
+			{
+				"family": "Guo",
+				"given": "Yanfei"
+			}
+		]
+	},
+	{
+		"id": "thomschke_einfache_nodate",
+		"type": "article-journal",
+		"language": "de",
+		"page": "12",
+		"source": "Zotero",
+		"title": "Einfache Mietspiegel qualifizieren",
+		"author": [
+			{
+				"family": "Thomschke",
+				"given": "Lorenz"
+			}
+		]
+	},
+	{
+		"id": "noauthor_real_nodate-1",
+		"type": "webpage",
+		"abstract": "This book presents a new way of thinking about, teaching, learning, and practicing real estate development.\n\nReal Estate Development Matrix describes the process in a two-dimensional model and presents seven Development Stages which form the horizontal axis, and eight sets of Development Tasks which form the vertical axis to define a 56-cell matrix. In each cell, money is spent and risks are taken to achieve certain tasks and thereby create (or destroy) value. This holistic process considers the",
+		"container-title": "Routledge & CRC Press",
+		"language": "en",
+		"title": "Real Estate Development Matrix",
+		"URL": "https://www.routledge.com/Real-Estate-Development-Matrix/Kohlhepp-Kohlhepp/p/book/9781138745049",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "graaskamp_fundamentals_1992",
+		"type": "article-journal",
+		"abstract": "Notes the real estate development process involves three major groups – a consumer group, a production group and a public infrastructure group. Comments that a major limitation shared by all groups is that each has a cash cycle enterprise which must remain solvent to survive. Concludes that the best risk management device for the producer group is through research so that the development product fits as closely as possible the needs of the tenant or purchaser, the values of the politically active collective consumers and the land use or the ethic of the society.",
+		"container-title": "Journal of Property Valuation and Investment",
+		"DOI": "10.1108/14635789210031253",
+		"ISSN": "0960-2712",
+		"issue": "3",
+		"note": "publisher: MCB UP Ltd",
+		"page": "619-639",
+		"source": "Emerald Insight",
+		"title": "Fundamentals of Real Estate Development",
+		"URL": "https://doi.org/10.1108/14635789210031253",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Graaskamp",
+				"given": "James A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1992",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "long_finance_2012",
+		"type": "book",
+		"abstract": "Explaining how finances drive each decision in the real estate development process, this helpful industry guide recognizes the complexities and significant risks of each project and illustrates how to reconcile conflicting elements to ultimately achieve success. A 36-year real estate development veteran, author Charles Long shares the practical information and personal insights that he has gained over the course of his career, and weaves relevant real world examples into the text, helping to clarify the principles necessary to effectively manage a project in today's financial landscape. Ideal both for those starting out in real estate development and experienced professionals who want to learn the theory behind the practice, this book offers a different perspective on making the monetary decisions that are involved in property development projects.",
+		"event-place": "Chicago",
+		"ISBN": "978-0-87420-194-9",
+		"language": "English",
+		"note": "OCLC: 1040063135",
+		"publisher": "Urban Land Institute",
+		"publisher-place": "Chicago",
+		"source": "Open WorldCat",
+		"title": "Finance for Real Estate Development.",
+		"URL": "http://qut.eblib.com.au/patron/FullRecord.aspx?p=840034",
+		"author": [
+			{
+				"family": "Long",
+				"given": "Charles"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "noauthor_information_nodate",
+		"type": "webpage",
+		"language": "en",
+		"note": "DOI: 10.1016/j.najef.2019.101063",
+		"title": "The information content of funds from operations and net income in real estate investment trusts | Elsevier Enhanced Reader",
+		"URL": "https://reader.elsevier.com/reader/sd/pii/S1062940819300907?token=4E16383F5295F0D97EEB6AADB21FFEEC382FD9B66DB97F89FB10F59FC7B2086DE001D670A496D0040923A31EF630A4C8&originRegion=eu-west-1&originCreation=20220727142555",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "dustmann_housing_2022",
+		"type": "article-journal",
+		"abstract": "The trend of rising income inequality in Germany since the mid-1990s is strongly amplified when considering income after housing expenditure. The income share of housing expenditure rose disproportionally for the bottom income quintile and fell for the top quintile. Factors contributing to these trends include declining relative costs of homeownership versus renting, changes in household structure, declining real incomes for low-income households and residential mobility towards larger cities. Younger cohorts spend more on housing and save less than older cohorts did at the same age, which will affect future wealth accumulation, particularly at the bottom of the income distribution.",
+		"container-title": "The Economic Journal",
+		"DOI": "10.1093/ej/ueab097",
+		"ISSN": "0013-0133",
+		"issue": "645",
+		"journalAbbreviation": "The Economic Journal",
+		"page": "1709-1736",
+		"source": "Silverchair",
+		"title": "Housing Expenditure and Income Inequality",
+		"URL": "https://doi.org/10.1093/ej/ueab097",
+		"volume": "132",
+		"author": [
+			{
+				"family": "Dustmann",
+				"given": "Christian"
+			},
+			{
+				"family": "Fitzenberger",
+				"given": "Bernd"
+			},
+			{
+				"family": "Zimmermann",
+				"given": "Markus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "norris_financial_2017",
+		"type": "article-journal",
+		"abstract": "concept of financialisation has been advanced to capture some of the most important political and economic challenges facing contemporary society. Human geographers and urban studies scholars have emphasised the particular importance of the expansion",
+		"container-title": "Financial Geography Working Paper ISSN 2515-0111",
+		"language": "en",
+		"source": "www.academia.edu",
+		"title": "Financial circuits Cyclicality, leakiness and social housing finance in Ireland and Denmark",
+		"URL": "https://www.academia.edu/38917903/Financial_circuits_Cyclicality_leakiness_and_social_housing_finance_in_Ireland_and_Denmark",
+		"author": [
+			{
+				"family": "Norris",
+				"given": "Michelle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "alexandri_who_2018",
+		"type": "article-journal",
+		"abstract": "The emerging postcrisis geographies in Southern Europe are intrinsically related to debt and dispossession. In Spain, mortgage homeownership and indebtedness led to housing dispossessions, while in Greece, skyrocketing private indebtedness is eventually arranged through housing foreclosures. Building upon the notion of accumulation by dispossession, i.e., on the way capital accumulates wealth in the era of neoliberal globalization, this article elaborates two novel concepts to understand the housing crises in both countries. The perception of dispossession by odious taxation describes the process of wealth extraction facilitated by financial mechanisms in Greece, and dispossession by political fraud is conceived as a characterization of fraudulent political arrangements and financial tools used for orchestrating housing stealth in Spain. This nurtures the perception that a comparative insight on the processes of dispossession in the Spanish and Greek housing markets may facilitate a nuanced understanding over the interrelated processes of contemporary housing restructuring.",
+		"container-title": "Housing Policy Debate",
+		"DOI": "10.1080/10511482.2017.1324891",
+		"ISSN": "1051-1482",
+		"issue": "1",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/10511482.2017.1324891",
+		"page": "117-134",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Who Loses and Who Wins in a Housing Crisis? Lessons From Spain and Greece for a Nuanced Understanding of Dispossession",
+		"title-short": "Who Loses and Who Wins in a Housing Crisis?",
+		"URL": "https://doi.org/10.1080/10511482.2017.1324891",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Alexandri",
+				"given": "Georgia"
+			},
+			{
+				"family": "Janoschka",
+				"given": "Michael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "fernandez_london_2016",
+		"type": "article-journal",
+		"abstract": "The paper focuses on transnational wealth elites buying residential properties in New York and London as an investment rather than as a primary residence. The transnational wealth elite is a group of people that have their origin in one locality, but invest their wealth transnationally since they entertain transnational jobs, assets and social networks. New York and London real estate has the unique quality that it is perceived to be highly liquid, i.e. easily resold to other investors. Together with the safe haven and socio-cultural characteristics of both cities and the way the real estate market and its professionals are organised, global city residential real estate functions as a ?safe deposit box?. The paper brings together different geographies: of the wealth elite, of offshore financial centres through which most real estate purchases are organised, and of real estate investment locations. It also maps the consequences of the safe deposit box function of real estate, in terms of not only house prices increases, but also of economic, social and cultural changes and how elite decision-making impacted this comprehensive set of changes in the fabric of the city. In doing this, the paper substantiates work on the financialisation of real estate by focusing attention on the agency of the wealth elite and their investment and legal networks rather than on property developers, housing associations or institutional investors.",
+		"container-title": "Environment and Planning A: Economy and Space",
+		"DOI": "10.1177/0308518X16659479",
+		"ISSN": "0308-518X",
+		"issue": "12",
+		"journalAbbreviation": "Environ Plan A",
+		"language": "en",
+		"note": "publisher: SAGE Publications Ltd",
+		"page": "2443-2461",
+		"source": "SAGE Journals",
+		"title": "London and New York as a safe deposit box for the transnational wealth elite",
+		"URL": "https://doi.org/10.1177/0308518X16659479",
+		"volume": "48",
+		"author": [
+			{
+				"family": "Fernandez",
+				"given": "Rodrigo"
+			},
+			{
+				"family": "Hofman",
+				"given": "Annelore"
+			},
+			{
+				"family": "Aalbers",
+				"given": "Manuel B"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "ploessl_news_2022",
+		"type": "article-journal",
+		"abstract": "Purpose To investigate whether additional information of the permanent news flow, especially reporting intensity, can help to increase transparency in housing markets, this study aims to examine the relationship between news coverage or news sentiment and residential real estate prices in Germany at a regional level. Design/methodology/approach Using methods in the field of natural language processing, in particular word embeddings and dictionary-based sentiment analyses, the authors derive five different sentiment measures from almost 320,000 news articles of two professional German real estate news providers. These sentiment indicators are used as covariates in a first difference fixed effects regression to investigate the relationship between news coverage or news sentiment and residential real estate prices. Findings The empirical results suggest that the ascertained news-based indicators have a significant positive relationship with residential real estate prices. It appears that the combination of news coverage and news sentiment proves to be a reliable indicator. Furthermore, the extracted sentiment measures lead residential real estate prices up to two quarters. Finally, the explanatory power increases when regressing on prices for condominiums compared with houses, implying that the indicators may rather reflect investor sentiment. Originality/value To the best of the authors’ knowledge, this is the first paper to extract both the news coverage and news sentiment from real estate-related news for regional German housing markets. The approach presented in this study to quantify additional qualitative data from texts is replicable and can be applied to many further research areas on real estate topics.",
+		"container-title": "International Journal of Housing Markets and Analysis",
+		"DOI": "10.1108/IJHMA-07-2022-0102",
+		"ISSN": "1753-8270",
+		"issue": "ahead-of-print",
+		"source": "Emerald Insight",
+		"title": "News coverage vs sentiment: evaluating German residential real estate markets",
+		"title-short": "News coverage vs sentiment",
+		"URL": "https://doi.org/10.1108/IJHMA-07-2022-0102",
+		"volume": "ahead-of-print",
+		"author": [
+			{
+				"family": "Ploessl",
+				"given": "Franziska"
+			},
+			{
+				"family": "Just",
+				"given": "Tobias"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "just_erratum_2018",
+		"type": "chapter",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_6",
+		"page": "E1-E2",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Erratum to: Real Estate Transactions",
+		"title-short": "Erratum to",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_6",
+		"author": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "just_real_2018",
+		"type": "book",
+		"collection-title": "Management for Professionals",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62508-9",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"title-short": "Real Estate Due Diligence",
+		"URL": "http://link.springer.com/10.1007/978-3-319-62510-2",
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "nobiling_tax_2018",
+		"type": "chapter",
+		"abstract": "The acquisition of German real estate can result in a partial assumption of the current tax position and certain tax liabilities of the seller by the buyer. In case of a share deal, all existing tax risks and liabilities are economically acquired by the buyer. A tax due diligence is an appropriate measure to identify and manage such inherent tax risks and to evaluate potential tax structuring and optimisation options for the buyer. This section shall provide an overview of selected standard topics of tax due diligences in German real estate transactions, for both asset and share deal structures.",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_3",
+		"page": "51-88",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Tax Due Diligence in Real Estate Transactions",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_3",
+		"author": [
+			{
+				"family": "Nobiling",
+				"given": "Jesko"
+			},
+			{
+				"family": "Hoyer",
+				"given": "Stephan"
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "stapenhorst_legal_2018",
+		"type": "chapter",
+		"abstract": "Legal due diligence means a detailed examination, analysis and assessment of the circumstances of the transaction object in fact and in law. The function of due diligence is to determine, analyse, assess and control various risks regarding the real estate as well as the opportunities connected with them. The purpose of legal due diligence is to provide legal security for the findings being decisive and forming the basis for the commercial and entrepreneurial decision, because every actual circumstance of life, whether it is commercial, technical, cultural or sociological, is based on legal rules. In this sense, legal due diligence is the basis for every due diligence investigation.",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_2",
+		"page": "21-49",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Legal Due Diligence",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_2",
+		"author": [
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "just_real_2018-1",
+		"type": "chapter",
+		"abstract": "Real estate is the biggest fixed asset class in an economy. Real estate has several specific characteristics that highly impact how real estate markets function. In this chapter, we specify real estate transactions and deduct the key reasons and concepts of a real estate due diligence process. We identify the origins, legal concepts and objectives of a real estate due diligence. This includes a systematic analysis of real estate risks and a sketch of a typical due diligence process.",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_1",
+		"page": "1-20",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Real Estate Transactions",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_1",
+		"author": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "matzen_financial_2018",
+		"type": "chapter",
+		"abstract": "This chapter describes the process of conducting financial due diligence for real estate companies, portfolios and assets. It will provide practitioners with an overview of potential issues to be investigated and provides an approach to analysing these issues.",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_4",
+		"page": "89-146",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Financial Due Diligence",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_4",
+		"author": [
+			{
+				"family": "Matzen",
+				"given": "Frank J."
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "reich_technical_2018",
+		"type": "chapter",
+		"abstract": "This chapter describes the process of conducting Technical Due Diligence for real estate companies, portfolios and assets. It provides practitioners with an overview of potential issues and important topics to be assessed and gives examples on potential pitfalls from a practitioner’s view.",
+		"collection-title": "Management for Professionals",
+		"container-title": "Real Estate Due Diligence: A Guideline for Practitioners",
+		"event-place": "Cham",
+		"ISBN": "978-3-319-62510-2",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-319-62510-2_5",
+		"page": "147-206",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "Springer Link",
+		"title": "Technical Due Diligence",
+		"URL": "https://doi.org/10.1007/978-3-319-62510-2_5",
+		"author": [
+			{
+				"family": "Reich",
+				"given": "Sebastian"
+			}
+		],
+		"editor": [
+			{
+				"family": "Just",
+				"given": "Tobias"
+			},
+			{
+				"family": "Stapenhorst",
+				"given": "Hermann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "baum_real_2015",
+		"type": "book",
+		"call-number": "HD1382.5 .B3783 2015",
+		"edition": "Third edition",
+		"event-place": "Abingdon, Oxon ; New York, NY",
+		"ISBN": "978-0-415-74160-6",
+		"number-of-pages": "311",
+		"publisher": "Routledge, Taylor & Francis Group",
+		"publisher-place": "Abingdon, Oxon ; New York, NY",
+		"source": "Library of Congress ISBN",
+		"title": "Real estate investment: a strategic approach",
+		"title-short": "Real estate investment",
+		"author": [
+			{
+				"family": "Baum",
+				"given": "Andrew E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "myers_economics_2011",
+		"type": "book",
+		"call-number": "HD1390 .M94 2011",
+		"edition": "3rd ed",
+		"event-place": "Boston",
+		"ISBN": "978-0-08-096994-7",
+		"number-of-pages": "199",
+		"publisher": "Amsterdam ; Elsevier/EG Books",
+		"publisher-place": "Boston",
+		"source": "Library of Congress ISBN",
+		"title": "Economics & property",
+		"author": [
+			{
+				"family": "Myers",
+				"given": "Danny"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "brown_how_2015",
+		"type": "book",
+		"call-number": "HD255 .B758 2015",
+		"collection-title": "The city in the twenty-first century",
+		"event-place": "Philadelphia",
+		"ISBN": "978-0-8122-4705-3",
+		"number-of-pages": "325",
+		"publisher": "University of Pennsylvania Press",
+		"publisher-place": "Philadelphia",
+		"source": "Library of Congress ISBN",
+		"title": "How real estate developers think: design, profits, and community",
+		"title-short": "How real estate developers think",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Peter Hendee"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "delisle_graaskamp_2000",
+		"type": "chapter",
+		"container-title": "Essays in Honor of James A. Graaskamp: Ten Years After",
+		"event-place": "Boston, MA",
+		"ISBN": "978-1-4613-5686-8",
+		"language": "en",
+		"note": "collection-title: Research Issues in Real Estate\nDOI: 10.1007/978-1-4615-1703-0_3",
+		"page": "51-85",
+		"publisher": "Springer US",
+		"publisher-place": "Boston, MA",
+		"source": "DOI.org (Crossref)",
+		"title": "Graaskamp: A Holistic Perspective",
+		"title-short": "Graaskamp",
+		"URL": "http://link.springer.com/10.1007/978-1-4615-1703-0_3",
+		"volume": "6",
+		"editor": [
+			{
+				"family": "DeLisle",
+				"given": "James R."
+			},
+			{
+				"family": "Worzala",
+				"given": "Elaine M."
+			}
+		],
+		"author": [
+			{
+				"family": "DeLisle",
+				"given": "James R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "gonzalez_harms_nodate",
+		"type": "article-journal",
+		"abstract": "The Harms of Speculation Spanish REITs and the financialization of Barcelona's rental market",
+		"language": "en",
+		"source": "www.academia.edu",
+		"title": "The Harms of Speculation Spanish REITs and the financialization of Barcelona&#39;s rental market",
+		"URL": "https://www.academia.edu/38813743/The_Harms_of_Speculation_Spanish_REITs_and_the_financialization_of_Barcelonas_rental_market",
+		"author": [
+			{
+				"family": "Gonzalez",
+				"given": "Jordi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "weis_which_2021",
+		"type": "article-journal",
+		"abstract": "This paper analyzes the return sensitivities of real estate value and growth stocks to changes in five different interest rate proxies. Using a global sample of 352 listed real estate companies from 12 countries as a test object, we find that real estate value stocks are more sensitive than real estate growth stocks to changes in the short-term interest rate. This finding is consistent with the theory that investors with shorter investment horizons trade off the high initial yield of value stocks against lower-risk short-term interest rates. In contrast, real estate growth stocks are more sensitive to changes in the long-term interest rate, which is consistent with a stronger impact on the present value of the future cash flows of growth stocks. We also find that real estate value stocks are more sensitive to changes in the credit yield. Because credit costs have a direct impact on a firm’s cost of capital, this result is consistent with risk-based theories of the value premium, which argue value stocks are riskier because they tend to have higher leverage and greater default probability.",
+		"container-title": "Journal of Property Research",
+		"DOI": "10.1080/09599916.2021.1903531",
+		"ISSN": "0959-9916",
+		"issue": "3",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/09599916.2021.1903531",
+		"page": "175-197",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Which stocks are driven by which interest rates?",
+		"URL": "https://doi.org/10.1080/09599916.2021.1903531",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Weis",
+				"given": "Christian"
+			},
+			{
+				"family": "Woltering",
+				"given": "René-Ojas"
+			},
+			{
+				"family": "Sebastian",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "weis_which_2021-1",
+		"type": "article-journal",
+		"abstract": "This paper analyzes the return sensitivities of real estate value and growth stocks to changes in five different interest rate proxies. Using a global sample of 352 listed real estate companies from 12 countries as a test object, we find that real estate value stocks are more sensitive than real estate growth stocks to changes in the short-term interest rate. This finding is consistent with the theory that investors with shorter investment horizons trade off the high initial yield of value stocks against lower-risk short-term interest rates. In contrast, real estate growth stocks are more sensitive to changes in the long-term interest rate, which is consistent with a stronger impact on the present value of the future cash flows of growth stocks. We also find that real estate value stocks are more sensitive to changes in the credit yield. Because credit costs have a direct impact on a firm’s cost of capital, this result is consistent with risk-based theories of the value premium, which argue value stocks are riskier because they tend to have higher leverage and greater default probability.",
+		"container-title": "Journal of Property Research",
+		"DOI": "10.1080/09599916.2021.1903531",
+		"ISSN": "0959-9916, 1466-4453",
+		"issue": "3",
+		"journalAbbreviation": "Journal of Property Research",
+		"language": "en",
+		"page": "175-197",
+		"source": "DOI.org (Crossref)",
+		"title": "Which stocks are driven by which interest rates?: Evidence from listed real estate",
+		"title-short": "Which stocks are driven by which interest rates?",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/09599916.2021.1903531",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Weis",
+				"given": "Christian"
+			},
+			{
+				"family": "Woltering",
+				"given": "René-Ojas"
+			},
+			{
+				"family": "Sebastian",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "bienert_guest_2020",
+		"type": "article-journal",
+		"container-title": "Zeitschrift für Immobilienökonomie",
+		"DOI": "10.1365/s41056-020-00046-0",
+		"ISSN": "2198-8021",
+		"issue": "1",
+		"journalAbbreviation": "Z Immobilienökonomie",
+		"language": "en",
+		"page": "1-2",
+		"source": "Springer Link",
+		"title": "Guest Editorial—German Journal of Real Estate Research: Special Issue Risk",
+		"title-short": "Guest Editorial—German Journal of Real Estate Research",
+		"URL": "https://doi.org/10.1365/s41056-020-00046-0",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Bienert",
+				"given": "Sven"
+			},
+			{
+				"family": "Sebastian",
+				"given": "Steffen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "sebastian_discount_2017",
+		"type": "paper-conference",
+		"abstract": "The German open-ended real estate fund industry was strongly hit by massive outﬂows in the course of the global ﬁnancial crisis. In total, 18 public and institutional real estate funds had to stop the redemption of shares and were ultimately forced to liquidate their portfolios. Investors of these funds either have to await the stepwise liquidation of the funds‘ assets, which can take up to several years, or they can opt to sell their shares on the secondary market, often at a substantial discount to the Net Asset Value (NAV Spread). This paper attempts to explain the NAV Spread of distressed German public open-ended real estate funds. The unique monthly dataset contains fund speciﬁcs and macroeconomic indicators for the entire relevant period. Fundamentals like the leverage ratio and the liquidity ratio as well as industry-wide spillover eﬀects from fund closures aﬀect the NAV Spread. Moreover, we detect a considerably inﬂuence of macroeconomic uncertainty explaining the discount to NAV.",
+		"container-title": "24th Annual European Real Estate Society Conference",
+		"DOI": "10.15396/eres2017_160",
+		"event-place": "Delft, Netherlands",
+		"event-title": "24th Annual European Real Estate Society Conference",
+		"language": "en",
+		"publisher": "European Real Estate Society",
+		"publisher-place": "Delft, Netherlands",
+		"source": "DOI.org (Crossref)",
+		"title": "The Discount to NAV of distressed German open-ended real estate funds",
+		"URL": "https://eres.architexturez.net/doc/oai-eres-id-eres2017-160",
+		"author": [
+			{
+				"family": "Sebastian",
+				"given": "Steffen"
+			},
+			{
+				"family": "Schnejdar",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Heinrich",
+				"given": "Michael"
+			},
+			{
+				"family": "Woltering",
+				"given": "René-Ojas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "flecker_space_2016",
+		"type": "book",
+		"abstract": "This volume seeks to enhance our understanding of the concepts of space and place in the study of digital work. It argues that while digital work is often presented as 'placeless', work always takes place somewhere with a certain degree of local embeddedness. Contributors to this collection address restructuring processes that bring about delocalised digital work and point out limitations to dislocation inherent in the work itself, and the social relations or the physical artefacts involved. Exploring the dynamics of global value chains and shifts in the international division of labour, this book explores the impact these have on employment and working conditions, workers' agency in shaping and coping with changes in work, and the new competencies needed in virtual organisational environments. Combining different disciplinary perspectives, the volume teases out the spatial aspects of digital work at different scales ranging from team level to that of global production networks",
+		"call-number": "HC79.I55 S674 2016",
+		"collection-title": "Dynamics of virtual work",
+		"event-place": "London",
+		"ISBN": "978-1-137-48086-6",
+		"note": "OCLC: ocn944474141",
+		"number-of-pages": "256",
+		"publisher": "Palgrave Macmillan",
+		"publisher-place": "London",
+		"source": "Library of Congress ISBN",
+		"title": "Space, place and global digital work",
+		"editor": [
+			{
+				"family": "Flecker",
+				"given": "Jörg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "noauthor_handbook_2022-1",
+		"type": "book",
+		"abstract": "\"Handbook of Real Estate and Macroeconomics\" published on 16 Jun 2022 by Edward Elgar Publishing.",
+		"ISBN": "978-1-78990-849-7",
+		"language": "eng",
+		"note": "container-title: Handbook of Real Estate and Macroeconomics",
+		"publisher": "Edward Elgar Publishing",
+		"source": "www.elgaronline.com",
+		"title": "Handbook of Real Estate and Macroeconomics",
+		"URL": "https://www.elgaronline.com/view/book/9781789908497/9781789908497.xml",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "noauthor_handbook_2022-2",
+		"type": "book",
+		"abstract": "\"Handbook on the Business of Sustainability\" published on 11 Feb 2022 by Edward Elgar Publishing.",
+		"ISBN": "978-1-83910-534-0",
+		"language": "eng",
+		"note": "container-title: Handbook on the Business of Sustainability",
+		"publisher": "Edward Elgar Publishing",
+		"source": "www.elgaronline.com",
+		"title": "Handbook on the Business of Sustainability: The Organization, Implementation, and Practice of Sustainable Growth",
+		"title-short": "Handbook on the Business of Sustainability",
+		"URL": "https://www.elgaronline.com/view/book/9781839105340/9781839105340.xml",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "ryan-collins_rethinking_2017",
+		"type": "book",
+		"event-place": "London",
+		"ISBN": "978-1-78699-118-8",
+		"language": "eng",
+		"number-of-pages": "253",
+		"publisher": "Zed",
+		"publisher-place": "London",
+		"source": "K10plus ISBN",
+		"title": "Rethinking the economics of land and housing",
+		"author": [
+			{
+				"family": "Ryan-Collins",
+				"given": "Josh"
+			},
+			{
+				"family": "Lloyd",
+				"given": "Toby"
+			},
+			{
+				"family": "Macfarlane",
+				"given": "Laurie"
+			},
+			{
+				"family": "Muellbauer",
+				"given": "John"
+			}
+		],
+		"contributor": [
+			{
+				"family": "New Economics Foundation",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "bildung_bauen_nodate",
+		"type": "webpage",
+		"abstract": "Wohnraum ist vor allem in Großstädten zur Mangelware geworden und für viele kaum mehr zu bezahlen. Bis zu einer sozial und ökologisch verträglichen Bau- und Wohnungspolitik ist es noch ein weiter Weg.",
+		"container-title": "bpb.de",
+		"language": "de",
+		"title": "Bauen und Wohnen",
+		"URL": "https://www.bpb.de/shop/zeitschriften/apuz/bauen-und-wohnen-2022/",
+		"author": [
+			{
+				"family": "Bildung",
+				"given": "Bundeszentrale",
+				"dropping-particle": "für politische"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "brueggeman_real_2022",
+		"type": "book",
+		"abstract": "This book prepares readers to understand the risks and rewards associated with financing and investing both residential and commercial real estate. Concepts and techniques included in the chapters and problem sets are used in many careers related to real estate. These include investing, development financing, appraising, consulting, managing real estate portfolios, leasing, managing property, analyzing site locations, corporate real estate, and managing real estate investment funds. This material is also relevant to individuals who want to better understand real estate when making their own personal investment and financing decisions.",
+		"edition": "Seventeenth edition, international student edition",
+		"event-place": "New York, NY",
+		"ISBN": "978-1-264-89288-4",
+		"language": "eng",
+		"number-of-pages": "814",
+		"publisher": "McGraw-Hill",
+		"publisher-place": "New York, NY",
+		"source": "K10plus ISBN",
+		"title": "Real estate finance and investments",
+		"author": [
+			{
+				"family": "Brueggeman",
+				"given": "William B."
+			},
+			{
+				"family": "Fisher",
+				"given": "Jeffrey D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "baum_real_2020",
+		"type": "book",
+		"abstract": "\"By 2016 global real estate markets have generally recovered as real estate asset prices have increased beyond pre-crisis levels. Whereas debt and equity capital was scarce at the time we wrote the first edition, capital is now abundant. In addition, many institutions who had completely exited the real estate markets in the downturn now realize that they were out of the market when they should have been acquiring property at distressed prices\"--",
+		"call-number": "HD1382.5",
+		"collection-title": "Wiley finance",
+		"edition": "Second Edition",
+		"event-place": "Hoboken",
+		"ISBN": "978-1-119-52615-5",
+		"number-of-pages": "1",
+		"publisher": "Wiley",
+		"publisher-place": "Hoboken",
+		"source": "Library of Congress ISBN",
+		"title": "Real estate investment: strategies, structures, decisions",
+		"title-short": "Real estate investment",
+		"author": [
+			{
+				"family": "Baum",
+				"given": "Andrew E."
+			},
+			{
+				"family": "Hartzell",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "scardovi_banking_2020",
+		"type": "book",
+		"call-number": "HG1601",
+		"collection-number": "15",
+		"collection-title": "Banking, money and international finance",
+		"event-place": "London ; New York",
+		"ISBN": "978-1-00-002289-6",
+		"number-of-pages": "1",
+		"publisher": "Routledge/Taylor & Francis Group",
+		"publisher-place": "London ; New York",
+		"source": "Library of Congress ISBN",
+		"title": "Banking, lending and real estate",
+		"author": [
+			{
+				"family": "Scardovi",
+				"given": "Claudio"
+			},
+			{
+				"family": "Bezzecchi",
+				"given": "Alessia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "lindsey_real_2018",
+		"type": "book",
+		"call-number": "KF695.Z9 B78 2018",
+		"collection-title": "Nutshell series",
+		"edition": "Seventh edition",
+		"event-place": "St. Paul, MN",
+		"ISBN": "978-1-68328-263-1",
+		"number-of-pages": "429",
+		"publisher": "West Academic Publishing",
+		"publisher-place": "St. Paul, MN",
+		"source": "Library of Congress ISBN",
+		"title": "Real estate finance in a nutshell",
+		"author": [
+			{
+				"family": "Lindsey",
+				"given": "Vada Waters"
+			},
+			{
+				"family": "Bruce",
+				"given": "Jon W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "ogbenjuwa_lucy_amuda_real_2021",
+		"type": "article-journal",
+		"abstract": "Finance is essential to the real estate project development sector’s success. However, there is still an enormous gap in the real estate sector. What seems to be required is a model that could guide managers in securing real estate project development finance. Findings have shown that no comprehensive framework is presently available that guides managers involved with securing finance for real estate project development. This study aims to develop a tool kit to support real estate managers in securing real estate project development finance. This toolkit would enhance access to finance by ensuring that managers understand the different finance options and criteria required by the different financiers. The toolkit would provide a framework for environmental scan, which would help minimise the challenges associated with securing real estate project development finance. It would also enable managers to take advantage of available opportunities and understand the critical success factors to facilitate access to finance for project development. It would allow an understanding of the vital decisions and processes; the skills, knowledge, competences, career path, education and training to enable access to finance for real estate project development. This research adopted a pluralistic methodological approach by employing qualitative and quantitative research designs focused on a case study of three developed and emerging economies, respectively. Using random sampling and snowballing, an online questionnaire survey was administered to real estate project development managers in developed and emerging economies, including Germany, the United Kingdom, and the United States of America, China, Nigeria, and South Africa. Thematic analysis was used to analyse the qualitative data, while the online questionnaire survey was analysed using descriptive and inferential statistics. The research revealed various challenges are associated with securing finance for real estate project development in both developed and emerging economies; however, the dominant challenges common to managers in both economies are access to land, collateral, and rising interest rates. This study developed a toolkit for securing finance for real estate project development. The toolkit is to support real estate managers in securing finance for real estate project development and serve as a guide in training and education for both academia and the industry.",
+		"DOI": "10.18744/LSBU.8YYY5",
+		"license": "Creative Commons Attribution 4.0 International",
+		"note": "publisher: London South Bank University",
+		"source": "DOI.org (Datacite)",
+		"title": "Real Estate Finance and Economics: A guide to securing finance for Real Estate Project Development in Developed and Emerging Economies",
+		"title-short": "Real Estate Finance &amp; Economics",
+		"URL": "https://openresearch.lsbu.ac.uk/item/8yyy5",
+		"author": [
+			{
+				"family": "Ogbenjuwa, Lucy Amuda",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "kish_dominance_2022",
+		"type": "article-journal",
+		"abstract": "The United States (U.S.) is the only country in the world in which the 30-year fixed rate residential mortgage is the dominant home mortgage product. After reviewing mortgage offerings from a sample of countries to contrast their differences from the U.S. mortgage market, the key differential driving the U.S. market to the 30-year fixed rate mortgage is the active encouragement by government policy. This reinforcing promotion of the 30-year fixed rate mortgage is provided by government and “quasi” government institutions that guarantee the mortgage in the after-market. This guarantee coupled with the vast securitization of mortgages which require a standardization of the underlying product (of which the 30-year fixed rate mortgage is the largest sector) contributes to this dominance. Thus securitization, which allows lenders to offset interest rate and prepayment risks to the buyers of these securitized mortgage products, further drives the demand for more 30-year fixed rate offerings.",
+		"container-title": "Journal of Real Estate Practice and Education",
+		"DOI": "10.1080/15214842.2020.1757357",
+		"ISSN": "1521-4842",
+		"issue": "1",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/15214842.2020.1757357",
+		"page": "1-16",
+		"source": "Taylor and Francis+NEJM",
+		"title": "The Dominance of the U.S. 30-Year Fixed Rate Residential Mortgage",
+		"URL": "https://doi.org/10.1080/15214842.2020.1757357",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Kish",
+				"given": "Richard J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "williams_what_1999",
+		"type": "article-journal",
+		"abstract": "How does real estate finance relate to the core of contemporary finance? What research in real estate might most interest financial economists? What research is suggested by both recurrent financial anomalies and stylized facts in real estate? Some possiblities are discussed.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007727212549",
+		"ISSN": "1573-045X",
+		"issue": "1",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "9-19",
+		"source": "Springer Link",
+		"title": "What Is Real Estate Finance?",
+		"URL": "https://doi.org/10.1023/A:1007727212549",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Williams",
+				"given": "Joseph T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "pace_spatial_2004",
+		"type": "article-journal",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035307.99686.fb",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "147-148",
+		"source": "Springer Link",
+		"title": "Spatial Statistics and Real Estate",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035307.99686.fb",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Pace",
+				"given": "R. Kelley"
+			},
+			{
+				"family": "LeSage",
+				"given": "James P."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "lesage_models_2004",
+		"type": "article-journal",
+		"abstract": "Most hedonic pricing studies using transaction data employ only sold properties. Since the properties sold during any year or even decade represent only a fraction of all properties, this approach ignores the potentially valuable information content of unsold properties which have known characteristics. In fact, explanatory variable information on house characteristics for all properties, sold and unsold, are often available from assessors. We set forth an estimation approach that predicts missing values of the dependent variable when the sample data exhibit spatial dependence. Employing information on the housing characteristics of both sold and unsold properties can improve prediction, increase estimation efficiency for the missing-at-random case, and reduce self-selection bias in the non-missing-at-random case. We demonstrate these advantages with a Monte Carlo experiment as well as with actual housing data.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035312.82241.e4",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "233-254",
+		"source": "Springer Link",
+		"title": "Models for Spatially Dependent Missing Data",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035312.82241.e4",
+		"volume": "29",
+		"author": [
+			{
+				"family": "LeSage",
+				"given": "James P."
+			},
+			{
+				"family": "Pace",
+				"given": "R. Kelley"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "case_modeling_2004",
+		"type": "article-journal",
+		"abstract": "This research reports results from a competition on modeling spatial and temporal components of house prices. A large, well-documented database was prepared and made available to anyone wishing to join the competition. To prevent data snooping, out-of-sample observations were withheld; they were deposited with one individual who did not enter the competition, but had the responsibility of calculating out-of-sample statistics for results submitted by the others. The competition turned into a cooperative effort, resulting in enhancements to previous methods including: a localized version of Dubin’s kriging model, a kriging version of Clapp’s local regression model, and a local application of Case’s earlier work on dividing a geographic housing market into districts. The results indicate the importance of nearest neighbor transactions for out-of-sample predictions: spatial trend analysis and census tract variables do not perform nearly as well as neighboring residuals.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035309.60607.53",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "167-191",
+		"source": "Springer Link",
+		"title": "Modeling Spatial and Temporal House Price Patterns: A Comparison of Four Models",
+		"title-short": "Modeling Spatial and Temporal House Price Patterns",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035309.60607.53",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Case",
+				"given": "Bradford"
+			},
+			{
+				"family": "Clapp",
+				"given": "John"
+			},
+			{
+				"family": "Dubin",
+				"given": "Robin"
+			},
+			{
+				"family": "Rodriguez",
+				"given": "Mauricio"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "militino_alternative_2004",
+		"type": "article-journal",
+		"abstract": "In this article different spatial statistics techniques to analyze the behavior of used dwelling market prices are compared. We fit two lattice models: simultaneous and conditional autoregressive, a geostatistical model, the so-called universal kriging and finally, a linear mixed-effect model. Different spatial neighborhood structures are considered, as well as different spatial weight matrices and covariance models. The results are illustrated through a real data set of 293 properties from Pamplona, Spain.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035310.20223.e9",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "193-209",
+		"source": "Springer Link",
+		"title": "Alternative Models for Describing Spatial Dependence among Dwelling Selling Prices",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035310.20223.e9",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Militino",
+				"given": "A. F."
+			},
+			{
+				"family": "Ugarte",
+				"given": "M. D."
+			},
+			{
+				"family": "García-Reinaldos",
+				"given": "L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "brasington_house_2004",
+		"type": "article-journal",
+		"abstract": "When two internally homogeneous communities decide to jointly provide a public service, residents of each community lose some control over the public service provision. The loss of control over public schooling provision contributes to a $2,929 or 3.5 percent drop in constant-quality house value. Increased heterogeneity of the consolidated district is responsible for almost all the drop; the increased number of service recipients alone is responsible for almost none of the drop. The spatial hedonic, corrected for sample selection bias, also suggests economies of scale gains from school district consolidation must be worth at least $3,369—4 percent of house value.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035311.59920.74",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "211-231",
+		"source": "Springer Link",
+		"title": "House Prices and the Structure of Local Government: An Application of Spatial Statistics",
+		"title-short": "House Prices and the Structure of Local Government",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035311.59920.74",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Brasington",
+				"given": "David M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "gelfand_dynamics_2004",
+		"type": "article-journal",
+		"abstract": "It is well established that house prices are dynamic. It is also axiomatic that location influences such selling prices, motivating our objective of incorporating spatial information in explaining the evolution of house prices over time. In this paper, we propose a rich class of spatio-temporal models under which each property is point referenced and its associated selling price modeled through a collection of temporally indexed spatial processes. Such modeling includes and extends all house price index models currently in the literature, and furthermore permits distinction between the effects of time and location. We study single family residential sales in two distinct submarkets of a metropolitan area and further categorize the data into single- and multiple-transaction observations. We find the spatial component is very important in explaining house price. Moreover, the relative homogeneity of homes within the submarket and the frequency with which homes sell affects the pattern of variation across space and time. Differences between single and repeat sale data are evident. The methodology is applicable to more general capital asset pricing when location is anticipated to be influential.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/B:REAL.0000035308.15346.0a",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "149-166",
+		"source": "Springer Link",
+		"title": "The Dynamics of Location in Home Price",
+		"URL": "https://doi.org/10.1023/B:REAL.0000035308.15346.0a",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Gelfand",
+				"given": "Alan E."
+			},
+			{
+				"family": "Ecker",
+				"given": "Mark D."
+			},
+			{
+				"family": "Knight",
+				"given": "John R."
+			},
+			{
+				"family": "Sirmans",
+				"given": "C. F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "broxterman_introduction_2023",
+		"type": "article-journal",
+		"abstract": "The efficiency of the real estate market is a major concern for homeowners, investors, lenders, policymakers, and researchers. Modern academic literature has mostly moved beyond an early emphasis on formal tests of informational efficiency. The Grossman and Stiglitz (The American Economic Review 70:393–408, 1980) paradox holds that perfect informational efficiency is impossible and the joint hypothesis problem implies that market efficiency is not even testable. Instead, researchers now commonly examine the speed, accuracy, and persistence of price movements in response to new information, as the allocative efficiency of a market ultimately depends on its degree of informational (and operational) efficiency. This special issue is devoted to exploring these issues.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1007/s11146-022-09928-7",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "J Real Estate Finan Econ",
+		"language": "en",
+		"page": "197-202",
+		"source": "Springer Link",
+		"title": "Introduction to Special Issue: Topics Related to Real Estate Market Efficiency",
+		"title-short": "Introduction to Special Issue",
+		"URL": "https://doi.org/10.1007/s11146-022-09928-7",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Broxterman",
+				"given": "Daniel"
+			},
+			{
+				"family": "Gatzlaff",
+				"given": "Dean"
+			},
+			{
+				"family": "Letdin",
+				"given": "Mariya"
+			},
+			{
+				"family": "Sirmans",
+				"given": "G. Stacy"
+			},
+			{
+				"family": "Zhou",
+				"given": "Tingyu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "broxterman_information_2023",
+		"type": "article-journal",
+		"abstract": "This article reviews research on the economics of information in real estate. It covers equity investment in private and public markets and intermediation by brokers. The review shows how, by examining the nature and extent of information frictions in these important markets, research has improved our understanding of potential market failures and corrections which can improve market functioning.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1007/s11146-022-09918-9",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "J Real Estate Finan Econ",
+		"language": "en",
+		"page": "203-298",
+		"source": "Springer Link",
+		"title": "Information Frictions in Real Estate Markets: Recent Evidence and Issues",
+		"title-short": "Information Frictions in Real Estate Markets",
+		"URL": "https://doi.org/10.1007/s11146-022-09918-9",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Broxterman",
+				"given": "Daniel"
+			},
+			{
+				"family": "Zhou",
+				"given": "Tingyu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "beracha_real_2014",
+		"type": "chapter",
+		"abstract": "The real estate market displays many of the behavioral biases documented in the traditional financial markets. During bull markets, investor overconfidence, optimism, representativeness, and self-attribution bias among others drive prices far above their fundamental values. Conversely, during bear markets, loss aversion, false reference points and anchoring, and familiarity bias drive prices below their fair values. Combining these behavioral biases with severe limits to arbitrage including the illiquid nature of the market, high transaction costs, and short sale constraints can magnify the effect of psychological biases on real estate valuations. As a result, real estate prices in the short and medium time horizon often deviate from their fundamental values and price adjustments are slow. This chapter reviews common psychological biases in the context of real estate and the consequences of these biases to markets.",
+		"container-title": "Investor Behavior",
+		"ISBN": "978-1-118-81345-4",
+		"language": "en",
+		"note": "section: 30\n_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118813454.ch30\nDOI: 10.1002/9781118813454.ch30",
+		"page": "555-572",
+		"publisher": "John Wiley & Sons, Ltd",
+		"source": "Wiley Online Library",
+		"title": "Real Estate Investment Decision Making in Behavioral Finance",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118813454.ch30",
+		"author": [
+			{
+				"family": "Beracha",
+				"given": "Eli"
+			},
+			{
+				"family": "Skiba",
+				"given": "Hilla"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "mayer_housing_nodate",
+		"type": "article-journal",
+		"abstract": "We examine the relative roles of fundamentals and psychology in explaining U.S. house price dynamics. Using metropolitan area data, we estimate how the house price-rent ratio responds to fundamentals such as real interest rates and taxes (via a user cost model) and availability of capital, and behavioral conjectures such as backwards-looking expectations of house price growth and inflation illusion. We find that user cost and lagged five-year house price appreciation rate are the most important determinants of changes in the price-rent ratio and lending market efficiency also is capitalized into house prices, with higher prices associated with lower origination costs and a greater use of subprime mortgages. We find no evidence in favor of behavioral explanations based on the one-year lagged house price growth rate or the inflation rate. The causes of a house price boom appear to vary over time, with interest rate fundamentals mattering more than backwards-looking price expectations in the house price run-up of the 2000s and vice versa during the 1980s boom.",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Housing and Behavioral Finance",
+		"author": [
+			{
+				"family": "Mayer",
+				"given": "Christopher"
+			},
+			{
+				"family": "Sinai",
+				"given": "Todd"
+			}
+		]
+	},
+	{
+		"id": "beracha_chapter_2014",
+		"type": "article",
+		"abstract": "The real estate market displays many of the behavioral biases documented in the traditional financial markets. During bull markets, investor overconfidence, optimism, representativeness, and self-attribution bias among others drive prices far above their fundamental values. Conversely, during bear markets, loss aversion, false reference points and anchoring, and familiarity bias drive prices below their fair values. Combining these behavioral biases with severe limits to arbitrage including the illiquid nature of the market, high transaction costs, and short sale constraints can magnify the effect of psychological biases on real estate valuations. As a result, real estate prices in the short and medium time horizon often deviate from their fundamental values and price adjustments are slow. This chapter reviews common psychological biases in the context of real estate and the consequences of these biases to markets.",
+		"event-place": "Rochester, NY",
+		"genre": "SSRN Scholarly Paper",
+		"language": "en",
+		"number": "2399285",
+		"publisher-place": "Rochester, NY",
+		"source": "Social Science Research Network",
+		"title": "Chapter 30: Real Estate Investment Decision-Making in Behavioral Finance",
+		"title-short": "Chapter 30",
+		"URL": "https://papers.ssrn.com/abstract=2399285",
+		"author": [
+			{
+				"family": "Beracha",
+				"given": "Eli"
+			},
+			{
+				"family": "Skiba",
+				"given": "Hilla"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					2,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "englund_choice_1999",
+		"type": "article-journal",
+		"abstract": "Housing transactions are executed and recorded daily, but are routinely pooled into longer time periods for the measurement and analysis of housing price trends. We utilize an unusually rich data set, covering essentially all arm's length housing sales in Sweden for a dozen years, in an attempt to understand the effect of temporal aggregation upon estimates of housing prices and their volatilities. This rich data set also provides a unique opportunity to compare the results using the conventional weighted repeat sales model (WRS) to those based on a research strategy which incorporates all available information on house sales. The results indicate the clear importance of temporal disaggregation in the estimation of housing prices and volatilities—regardless of the model employed.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007846404582",
+		"ISSN": "1573-045X",
+		"issue": "2",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "91-112",
+		"source": "Springer Link",
+		"title": "The Choice of Methodology for Computing Housing Price Indexes: Comparisons of Temporal Aggregation and Sample Definition",
+		"title-short": "The Choice of Methodology for Computing Housing Price Indexes",
+		"URL": "https://doi.org/10.1023/A:1007846404582",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Englund",
+				"given": "Peter"
+			},
+			{
+				"family": "Quigley",
+				"given": "John M."
+			},
+			{
+				"family": "Redfearn",
+				"given": "Christian L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "zabel_controlling_1999",
+		"type": "article-journal",
+		"abstract": "Given the importance of house prices it is not surprising that house price indices are used for many purposes. One of the factors that differentiates these indices is the house price determinants (such as structural characteristics and neighborhood quality) that are accounted for—that is, held constant. Indices are usually generated from house price regressions. It is shown that, regardless of the desired level of accounting, it is necessary to control for all significant determinants of house prices in these regressions to obtain unbiased estimates of the growth in house prices. An empirical example shows that not controlling for neighborhood quality can lead to substantial biases in estimates of house price appreciation rates even if the index does not account for this factor.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007832527244",
+		"ISSN": "1573-045X",
+		"issue": "3",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "223-241",
+		"source": "Springer Link",
+		"title": "Controlling for Quality in House Price Indices",
+		"URL": "https://doi.org/10.1023/A:1007832527244",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Zabel",
+				"given": "Jeffrey E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "ciochetti_determinants_1999",
+		"type": "article-journal",
+		"abstract": "Numerous studies have examined the factors associated with allocation of corporate and government pension-plan assets. Yet to date there has been no attempt to identify the sponsor-related conditions that affect the percentage of U.S. private and public pension-fund assets invested in real estate. The purpose of this article is to examine various asset-and liability-matching hypotheses regarding pension-plan asset allocations. Models are specified for both corporate and government defined-benefit plans that relate the characteristics of each plan to the percentage allocated to real estate investments. Our results confirm the existence of a significant size effect for both corporate and government pension plans, although we find mean levels of real estate allocation to be much lower than those suggested in previous real estate allocation studies. The article, however, contains some anomalous findings. In particular, our findings suggest that pension-plan sponsors do not hedge their real estate risk. We also find that pension-plan sponsors do not invest in real estate, as theory might suggest, to minimize the noise level in their pension liabilities.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007828426335",
+		"ISSN": "1573-045X",
+		"issue": "3",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "193-210",
+		"source": "Springer Link",
+		"title": "Determinants of Real Estate Asset Allocations in Private and Public Pension Plans",
+		"URL": "https://doi.org/10.1023/A:1007828426335",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Ciochetti",
+				"given": "Brian"
+			},
+			{
+				"family": "Sa-Aadu",
+				"given": "J."
+			},
+			{
+				"family": "Shilling",
+				"given": "James"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "muellbauer_housing_2012",
+		"type": "chapter",
+		"abstract": "Housing’s main interactions with macroeconomic activity operate through residential investment, consumption, and banking channels. In economies with liberal financial systems, housing has an important collateral role for raising relatively cheap debt, which can fund consumption spending and other activities. Higher house prices then increase access to credit and enhance the potential ‘buffer stock’ role of housing wealth. Finally, mortgage defaults can have major effects on bank balance sheets and hence on the ability of banks to extend credit to households and businesses. Through all three channels, house price fluctuations tend to amplify the business cycle in certain types of economies.",
+		"container-title": "International Encyclopedia of Housing and Home",
+		"event-place": "San Diego",
+		"ISBN": "978-0-08-047171-6",
+		"language": "en",
+		"note": "DOI: 10.1016/B978-0-08-047163-1.00118-1",
+		"page": "301-314",
+		"publisher": "Elsevier",
+		"publisher-place": "San Diego",
+		"source": "ScienceDirect",
+		"title": "Housing and the Macroeconomy",
+		"URL": "https://www.sciencedirect.com/science/article/pii/B9780080471631001181",
+		"author": [
+			{
+				"family": "Muellbauer",
+				"given": "J."
+			}
+		],
+		"editor": [
+			{
+				"family": "Smith",
+				"given": "Susan J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "muellbauer_housing_2016",
+		"type": "article-journal",
+		"abstract": "House price booms in Anglo-Saxon economies and their collapse were an important part of the financial accelerator via consumption, construction and the banking system. This paper examines links for Germany between household portfolios, income and consumption in a six-equation system, for 1980-2012 data, for consumption, house prices, consumer credit, housing loans, liquid assets and permanent income with latent variables representing the shifts in the availability of the two types of credit. We find evidence of well specified consumption and house price functions and that Germany differs greatly from the Anglo-Saxon economies: rising house prices do not translate into higher consumer spending. This suggests that the transmission of monetary policy via asset prices, in particular house prices, on consumption is likely to be less effective, and any financial accelerator weaker, in Germany than in the US or the UK. There is little evidence of overvaluation of German house prices by 2012. JEL Classification: E21, E27, E44, E51, E58",
+		"collection-title": "Working Paper Series",
+		"container-title": "Working Paper Series",
+		"language": "en",
+		"note": "number: 1904\npublisher: European Central Bank",
+		"source": "ideas.repec.org",
+		"title": "The housing market, household portfolios and the German consumer",
+		"URL": "https://ideas.repec.org//p/ecb/ecbwps/20161904.html",
+		"author": [
+			{
+				"family": "Muellbauer",
+				"given": "John"
+			},
+			{
+				"family": "Geiger",
+				"given": "Felix"
+			},
+			{
+				"family": "Rupprecht",
+				"given": "Manuel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "muellbauer_housing_2015",
+		"type": "article-journal",
+		"abstract": "Three themes connecting housing and the macroeconomy are discussed. First, evidence is presented for the property market as one of the drivers of U.S. consumer price inflation. Second, key drivers of house prices are explained to account for the remarkable diversity of international experience. Finally, three potential links between housing, credit, and the financial accelerator are discussed. These are the consumption channel, the investment channel, and feedback between bad loans and risk-spreads via the financial system—and how institutional differences between countries can explain the presence, absence and magnitudes of these linkages.",
+		"container-title": "Journal of Money, Credit and Banking",
+		"DOI": "10.1111/jmcb.12190",
+		"ISSN": "1538-4616",
+		"issue": "S1",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jmcb.12190",
+		"page": "51-58",
+		"source": "Wiley Online Library",
+		"title": "Housing and the Macroeconomy: Inflation and the Financial Accelerator",
+		"title-short": "Housing and the Macroeconomy",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12190",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Muellbauer",
+				"given": "John"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "leung_housing_2022",
+		"type": "webpage",
+		"abstract": "Until recently, the literature ignored the interactions between housing and macroeconomics. Thanks to many researchers' contributions, the macro-housing field is in development. This review complements previous research and highlights a few areas that have made significant progress lately. They are the rental market and related issues, housing affordability, people's beliefs and expectations, and the interactions between the aggregate and regional markets. Theoretical models have become increasingly realistic and hence can be solved only numerically. While the recent literature has provided essential policy lessons, it has yet delivered a \"paradigm\" for future research. There are also open questions that remain to be answered.",
+		"genre": "MPRA Paper",
+		"language": "en",
+		"title": "Housing and Macroeconomics",
+		"URL": "https://mpra.ub.uni-muenchen.de/115500/",
+		"author": [
+			{
+				"family": "Leung",
+				"given": "Charles Ka Yui"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "muellbauer_housing_2018",
+		"type": "article-journal",
+		"abstract": "In housing affordability levels and volatility, there could hardly be a greater contrast than between the UK and Germany. Differences in history, institutions and policies are explored in this paper. Residential housing supply has been far more expansionary in Germany and mortgage credit more tightly regulated. A sensibly regulated rental market and stable German house prices have combined to leave the rental sector with over half of tenures. Policy failures in the UK have resulted in widening intergenerational inequality, increased social exclusion, adversely affected productivity and growth and raised the risk of financial instability. Policy lessons are drawn for the UK, which go far beyond the remit of the immediately responsible Ministry of Housing, Communities and Local Government.",
+		"container-title": "National Institute Economic Review",
+		"DOI": "10.1177/002795011824500112",
+		"ISSN": "0027-9501",
+		"issue": "1",
+		"language": "en",
+		"note": "publisher: SAGE Publications Ltd",
+		"page": "R20-R33",
+		"source": "SAGE Journals",
+		"title": "Housing, Debt and the Economy: A Tale of Two Countries",
+		"title-short": "Housing, Debt and the Economy",
+		"URL": "https://doi.org/10.1177/002795011824500112",
+		"volume": "245",
+		"author": [
+			{
+				"family": "Muellbauer",
+				"given": "John"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "achour-fischer_integrated_1999",
+		"type": "article-journal",
+		"abstract": "Executive Summary. The Fisher-Di Pasquale-Wheaton model is an elegant metaphor of the integration of the property market, capital market and construction activity. This model was presented in previous articles and officialized in one of the best textbooks in property economics (Di Pasquale-Wheaton, 1992). This article briefly describe the model and shows how it can be used as an interactive pedagogical instrument that facilitates the simultaneous introduction of theoretical modeling, Excel simulations and familiarization with web document interactions. The original version of this article can be used interactively at: www.cbs.curtin.edu.au/units/ef/property/.",
+		"container-title": "Journal of Real Estate Practice and Education",
+		"DOI": "10.1080/10835547.1999.12091561",
+		"ISSN": "1521-4842",
+		"issue": "1",
+		"note": "publisher: Routledge\n_eprint: https://doi.org/10.1080/10835547.1999.12091561",
+		"page": "33-43",
+		"source": "Taylor and Francis+NEJM",
+		"title": "An Integrated Property Market Model: A Pedagogical Tool",
+		"title-short": "An Integrated Property Market Model",
+		"URL": "https://doi.org/10.1080/10835547.1999.12091561",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Achour-Fischer",
+				"given": "Dominique"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "dipasquale_why_1999",
+		"type": "article-journal",
+		"abstract": "This paper reviews the main themes in the empirical literature on housing supply and outlines suggestions for future research. Much of the literature has focused on the determinants of new housing supply, particularly the supply of single family detached homes, and the renovation and repair decisions of homeowners. We have learned a great deal from the work that has been done but many important puzzles remain. Much of the literature has focused on aggregate data because there is so little information where the unit of observation is the builder, investor, or landlord. We need to focus on bringing new data to bear on the decision-making processes of these important actors to build our understanding of the micro foundations of housing supply.",
+		"container-title": "The Journal of Real Estate Finance and Economics",
+		"DOI": "10.1023/A:1007729227419",
+		"ISSN": "1573-045X",
+		"issue": "1",
+		"journalAbbreviation": "The Journal of Real Estate Finance and Economics",
+		"language": "en",
+		"page": "9-23",
+		"source": "Springer Link",
+		"title": "Why Don't We Know More About Housing Supply?",
+		"URL": "https://doi.org/10.1023/A:1007729227419",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Dipasquale",
+				"given": "Denise"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					1,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "muller_finanzierungstheorie_2010",
+		"type": "chapter",
+		"abstract": "Im vorangegangenen Kapitel wurde deutlich, dass die Situation der Unternehmenskrise durch zunehmend eingeengte Handlungsspielräume gekennzeichnet ist. Neben der Früherkennung wurden Mittel und Wege zur Überwindung der Krise aufgezeigt, wobei deutlich wurde, dass gerade die Wiedererlangung der finanziellen Handlungsspielräume oberste Priorität besitzen muss. Dieses 3. Kapitel widmet sich daher der Finanzierung, dem Instrument zur Wiedererlangung finanzieller Spielräume sowie zur Herstellung einer optimalen Kapitalstruktur. Somit wird die Grundlage für den im 6. und 7. Kapitel stattfindenden situativen Vergleich und die finanzierungstheoretische Reflexion der Finanzierungsformen vor dem Hintergrund der Unternehmenskrise geschaffen.",
+		"container-title": "Private Equity in der Unternehmenskrise",
+		"event-place": "Wiesbaden",
+		"ISBN": "978-3-8349-6038-2",
+		"language": "de",
+		"note": "DOI: 10.1007/978-3-8349-6038-2_3",
+		"page": "38-59",
+		"publisher": "Gabler",
+		"publisher-place": "Wiesbaden",
+		"source": "Springer Link",
+		"title": "Finanzierungstheorie: Optimale Kapitalstruktur und Finanzierungsinstrumente",
+		"title-short": "Finanzierungstheorie",
+		"URL": "https://doi.org/10.1007/978-3-8349-6038-2_3",
+		"author": [
+			{
+				"family": "Müller",
+				"given": "Frank"
+			}
+		],
+		"editor": [
+			{
+				"family": "Müller",
+				"given": "Frank"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					25
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "noauthor_no_nodate",
+		"type": "webpage",
+		"abstract": "How have house prices evolved over the long-run? This paper presents annual house prices for 14 advanced economies since 1870. Based on extensive data collection, we show that real house prices stayed constant from the 19th to the mid-20th century, but rose strongly during the second half of the 20th century. Land prices, not replacement costs, are the key to understanding the trajectory of house prices. Rising land prices explain about 80 percent of the global house price boom that has taken place since World War II. Higher land values have pushed up wealth-to-income ratios in recent decades.",
+		"language": "en",
+		"title": "No Price Like Home: Global House Prices, 1870-2012",
+		"title-short": "No Price Like Home",
+		"URL": "https://www.cesifo.org/en/publications/2014/working-paper/no-price-home-global-house-prices-1870-2012",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "noauthor_what_2021",
+		"type": "webpage",
+		"abstract": "Research on house price cycles and their interactions with the economy has burgeoned since the Global Financial Crisis. This column draws five lessons from a recent comprehensive survey. It argues that conventional theories of house price dynamics are misleading. Shifts in credit conditions, together with differences in housing supply response across cities, regions and countries, account for much of the heterogeneity of house price outcomes. Finally, increased demand for space and unprecedented policy interventions together explain the very different house price experience in the pandemic compared with the Global Financial Crisis.",
+		"container-title": "CEPR",
+		"language": "en",
+		"title": "What drives house prices: Lessons from the literature",
+		"title-short": "What drives house prices",
+		"URL": "https://cepr.org/voxeu/columns/what-drives-house-prices-lessons-literature",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "mcallister_minimum_2023",
+		"type": "article-journal",
+		"abstract": "Given the significance of carbon emissions from the existing building stock, this paper aims to provide an international comparative analysis of pioneering policies on minimum energy efficiency standards in the Scottish, English/Welsh, Dutch and French commercial real estate sectors. These are the four national policy regimes to employ these policy instruments to date with varied timelines spanning from 2009 to 2050. The methodological approach employs a document review of policy texts produced by policy makers and other stakeholders. The four policy regimes are evaluated in terms of their policy design focussing on minimum performance standards, forward guidance, scope and exemptions. A key finding is that, given the range of intervening factors, side-effects and uncertainties, there are difficult choices in striking a balance between phasing implementation, providing forward guidance and adjusting policy in response to evaluation. Whilst it was initially expected that most European Union jurisdictions would default to an Energy Performance Certificate related standard, our findings show that there has been a shift towards standards that are linked to actual rather than modelled energy consumption. However, for leased stock where the owner may have limited operational control, the separation of owners' responsibility for compliance and the users’ responsibility for operations makes designing consumption-based instruments more challenging. It is concluded that a central issue in policy design has been the trade-off between minimising the financial costs to property owners and occupiers of complying with performance thresholds and maximising reductions in energy consumption. There is growing recognition that regulatory economies of scale may be achieved by targeting large properties which allows for a large proportion of the total area of the stock to be covered whilst exempting a large proportion of transactions or properties.",
+		"container-title": "Journal of Cleaner Production",
+		"DOI": "10.1016/j.jclepro.2023.136342",
+		"ISSN": "0959-6526",
+		"journalAbbreviation": "Journal of Cleaner Production",
+		"language": "en",
+		"page": "136342",
+		"source": "ScienceDirect",
+		"title": "Minimum energy efficiency standards in the commercial real estate sector: A critical review of policy regimes",
+		"title-short": "Minimum energy efficiency standards in the commercial real estate sector",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0959652623005000",
+		"volume": "393",
+		"author": [
+			{
+				"family": "McAllister",
+				"given": "Pat"
+			},
+			{
+				"family": "Nase",
+				"given": "Ilir"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "eichholtz_different_2019",
+		"type": "report",
+		"abstract": "This paper provides new insights into the performance of commercial real estate – focusing on the environmental performance of institutional assets. We employ a proprietary dataset of energy consumption data that includes more than 26,000 buildings between 2009 and 2018. We document that in our sample of commercial real estate, the median energy intensity decreased by more than 40 percent over the past decade. Using a difference-in-difference analysis, we find that adoption of environmental building certification (LEED) is associated with lower energy consumption, and that there is substantial variation in these effects depending on certification level and program, and label tenure. Moreover, specific interventions aimed at improving the energy efficiency of buildings significantly reduce ex-post energy consumption, with effects varying depending on the local climatic conditions.",
+		"language": "en",
+		"publisher": "Lawrence Berkeley National Laboratory",
+		"source": "Zotero",
+		"title": "A Different Look at Commercial Real Estate Performance: Insights into Energy Efficiency Improvements",
+		"URL": "https://buildings.lbl.gov/sites/default/files/EichholtzHoltermansKok_RERI-LBNL_FINAL_30APR2019.pdf",
+		"author": [
+			{
+				"family": "Eichholtz",
+				"given": "Piet"
+			},
+			{
+				"family": "Holtermans",
+				"given": "Rogier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]
