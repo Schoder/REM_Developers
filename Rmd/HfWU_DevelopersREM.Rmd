@@ -96,7 +96,17 @@ layout: true
 
 
 
+---
+name: agenda
+class: inverse, center, middle
 
+# Das Programm
+
+.blockquote[Teil 1: Finanzwirtschaftliche Perspektive]
+
+.blockquote[Teil 2: Realwirtschaftliche Perspektive]
+
+.blockquote[Teil 3: Diskussion]
 
 ---
 name: icons
@@ -122,51 +132,76 @@ class: left
 🔮
 
 
-
 ---
-name: agenda
+name: Teil1
 class: inverse, center, middle
 
-# Das Programm
+## Teil 1
 
-.blockquote[Teil 1: Blick zurück - jüngste Entwicklungen]
+## Blick zurück
 
-.blockquote[Teil 2: Blick voraus - "Investor Intentions"]
+.blockquote[Blick zurück: Wertentwicklung]
 
-.blockquote[Teil 3: Investmenttehmen - Umfeldanalyse]
+.blockquote[Projektentwicklungsunternehmen]
 
-.blockquote[Teil 4: Themen aus der Praxis und ausgewählte Projektideen]
-
+.blockquote[Bestandsmanagement]
 
 
 ---
-name: Bilanz
+name: stoxx600
 class: left
 
-# Bilanzielle Perspektive
+# Öffentliche vs. Private Märkte
 
+.panelset[
+.panel[.panel-name[Öffentliche Märkte]
 ```{r}
+#| label: fig-stoxx
 #| echo: false
+#| message: false
+#| warning: false
+#| out-width: '80%'
 #| fig-align: 'center'
-#| out-width: '100%'
-knitr::include_graphics(xfun::from_root('img','Bilanz.png'))
+#| cache: true
+#| fig-cap: "STOXX600 vs. STOXX600 RE"
+#| fig-topcaption: true
+knitr::include_graphics('../img/STOXX600_vs_RE.svg')
 ```
-.quelle[Eigene Darstellung.]
-.can-edit[
-⚖️ Assets vs. Liabilities
-* Finanz- und Risikomanagement ("Asset and Liability Management")
-* Asset-Management
-]
 
+.quellePanURL[Eigene Darstellung. Datenquelle: [investing.com](https://www.investing.com/indices/stoxx-europe-600-real-estate-price-historical-data).]
+
+]
+.panel[.panel-name[Private Märkte]
+```{r}
+#| label: hp-idxEU
+#| echo: false
+#| message: false
+#| warning: false
+#| out-width: '95%'
+#| fig-align: 'center'
+#| cache: true
+#| fig-cap: "Wohnimmobilienpreise EU"
+#| fig-topcaption: true
+knitr::include_graphics('../img/houseprices_EU_select_small.svg')
+#source(xfun::from_root("R/houseprices.R"))
+#ggplotly(p_EUselect)
+```
+
+.quellePanURL[Eigene Darstellung. Datenquelle: [Eurostat (2023)](https://ec.europa.eu/eurostat/web/hicp/database).]
+
+]
+]
 
 ???
 
-* Finanzmanagement und Going-Concern
+* Macht einen stabileren Eindruck, aber natürlich nicht vergleichbar
+* Hier private Märkte (Wohnimmobilienindex, Eurostat)
+* entsprechend werden auch nur Wohnimmobilien betrachtet
+* Bewertungszeitpunkte/-frequenz
+* **Angebotspreise** in der zweiten Jahreshälfte in einigen Märkten, bspw. in Deutschland durchaus deutlich korrigiert (tw. -10%)
+* **Ein wesentlicher Grund für die vergleichsweise stabilen Preise** ist das rückläufige Transaktionsvolumen
 
-* Dreifache Bilanzkongruenz
-  * Summarisch
-  * Fristigkeit
-  * Risikoadjustierung
+
 
 
 ---
@@ -186,132 +221,6 @@ knitr::include_graphics(xfun::from_root('img','DiPasqualeWheaton.png'))
 ```
 
 .quelle[Eigene Darstellung.]
-
----
-name: ZIA-Index
-class: left
-
-# Wie ist die Stimmung?
-
-```{r}
-#| echo: false
-knitr::include_url('https://zia-deutschland.de/project/zia-iw-immobilienstimmungsindex/',height = '560px')
-``` 
-
-.quelle[Quelle: [ZIA (2023)](https://zia-deutschland.de/project/zia-iw-immobilienstimmungsindex)]
-`r NoCite(bib,"zia_zia-iw-immobilienstimmungsindex_2023")`
-
----
-name: JLL-quote
-class: left
-
-
-# Wo kommen wir her?
-
-.blockquote[
-In der Niedrigzinsphase fand nahezu jedes Produkt, das auf den Markt kam, schnell zahlreiche Bieter. Die Risikoklassen verwischten, Core-Plus-Produkte gingen mit einem Zwinkern als Core durch, da Investoren davon ausgingen, dass der Wert in jedem Fall steige – wenn man das Asset nur im Bestand hat.
-.tr[
-[Jones Lang Lasalle (2023)](https://www.jll.de/de/trends-and-insights/investoren/damit-core-auch-core-bleiben-kann)
-]
-`r NoCite(bib,"jones_lang_lasalle_damit_2023")`
-]
-
-
-
-
----
-class: left
-
-# Blick voraus
-
-```{r}
-#| echo: false
-#| out-height: '90%'
-knitr::include_graphics('https://www.iwkoeln.de/fileadmin/user_upload/Bilder/Slider/Immobilien/Grafik_Sonderfrage_Q4_2023.png')
-```
-
-.quelle[Quelle: [IW Köln (2023)](https://www.iwkoeln.de/presse/interaktive-grafiken/ralph-henger-michael-voigtlaender-ergebnisse-sonderumfrage-4-quartal-2023.html)]
-`r NoCite(bib,"iw_zia-iw-immobilienstimmungsindex_2023")`
-
-
----
-name: Teil1
-class: inverse, center, middle
-
-## Teil 1
-
-## Blick zurück
-
-.blockquote[Wertentwicklung im langfristigen Vergleich]
-
-.blockquote[Entwicklung Investmentvolumina]
-
-.blockquote[Renditeentwicklung am Beispiel Deutschlands]
-
-
----
-name: stoxx600
-class: left
-
-# Repricing an den öffentlichen Märkten
-
-```{r stoxx600,echo=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/STOXX600_vs_RE.svg')
-```
-
-.quelle[Eigene Darstellung. Datenquelle: [investing.com](https://www.investing.com/indices/stoxx-europe-600-real-estate-price-historical-data).]
-
-
-
----
-name: UBM-CZ
-class: left
-
-# Portfoliomanagement
-
-```{r}
-#| echo: false
-knitr::include_url('https://www.ubm-development.com/de/presse/ubm-verkauft-liegenschaft-in-tschechien-um-e-11-mio',height='520px')
-```
-
-
----
-name: hp-index
-class: left
-
-# Ausstehendes Repricing an privaten Märkten (?)
-
-
-.panelset[
-.panel[.panel-name[Wohnimmobilien EU]
-```{r hp-idxEU,echo=FALSE,message=FALSE,warning=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/houseprices_EU_select_small.svg')
-#source(xfun::from_root("R/houseprices.R"))
-#ggplotly(p_EUselect)
-```
-
-.quellePanURL[Eigene Darstellung. Datenquelle: [Eurostat (2023)](https://ec.europa.eu/eurostat/web/hicp/database).]
-]
-.panel[.panel-name[Vergleich EU und CH]
-```{r hp-idxCH,echo=FALSE,message=FALSE,warning=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/houseprices_EU-CH_small.svg')
-#source(xfun::from_root("R/houseprices.R"))
-#ggplotly(p_EUH2019)
-```
-.quellePanURL[Eigene Darstellung. Datenquelle: [Eurostat (2023)](https://ec.europa.eu/eurostat/web/hicp/database) bzw. [BFS (2023)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/immobilienpreise.html).]
-]
-]
-
-???
-
-* Macht einen stabileren Eindruck, aber natürlich nicht vergleichbar
-* Hier private Märkte (Wohnimmobilienindex, Eurostat bzw. IMPI des Schweizer Bundesamts für Statistik)
-* entsprechend werden auch nur Wohnimmobilien betrachtet
-* Bewertungszeitpunkte/-frequenz
-* **Angebotspreise** in der zweiten Jahreshälfte in einigen Märkten, bspw. in Deutschland durchaus deutlich korrigiert (tw. -10%)
-* **Ein wesentlicher Grund für die vergleichsweise stabilen Preise** ist das rückläufige Transaktionsvolumen
-
-
 
 ---
 name: Volumen
@@ -384,6 +293,225 @@ knitr::include_graphics('../img/Investment_Volumes_Europe_2011-2022_(CBRE_2023).
   * D: -42% (gesamt), bei Gewerbeimmobilien sogar  75% nach Zahlen von EY (2023)
 
 
+
+---
+name: Bilanz
+class: left
+
+# Bilanzielle Perspektive Projektentwicklungsunternehmen
+
+```{r}
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '100%'
+knitr::include_graphics(xfun::from_root('img','Bilanz.png'))
+```
+.quelle[Eigene Darstellung.]
+
+--
+
+⚖️ Finanzielles Gleichgewicht
+
+--
+* Asset and Liability Management (ALM)
+* Finanzmanagement
+* Risikomanagement
+* Asset-Management
+
+
+
+???
+
+* Konsequenz für Projektentwickler?
+
+* Geringere Nachfrage drückt auf mögliche Verkaufserlöse laufender Projektentwicklungen.
+
+Der Gewinn liegt im Einkauf? 
+
+* Damit kommen Geschäftsmodelle von mehreren Seiten unter Druck:
+  * Steigende Zinsen
+  * Zumindest 2022 gestiegene Baukosten (Anstieg zwar abgeschwächt, aber noch erhöhtes Niveau)
+  * Geringere Verkaufserlöse
+
+* Kalkulation geht in den meisten Fällen nicht mehr auf. Excel-Tabellen stimmen nicht mehr. Was tun?
+
+* Finanzmanagement und Going-Concern
+
+* Dreifache Bilanzkongruenz
+  * Summarisch
+  * Fristigkeit
+  * Risikoadjustierung
+
+* Quizfrage: Wo bilanzieren Developer Ihren Bestand?
+  * Es kommt darauf an:
+    * Absicht zu halten (Investor-Developer): Anlagevermögen
+    * Absicht zu verkaufen (Trading-Developer): Umlaufvermögen (Vorräte)
+    * Regelungen IAS 40 und IAS2
+
+
+---
+name: Dev-types
+class: left
+
+# Projektentwicklung und PE-Unternehmen
+
+.panelset[
+.panel[.panel-name[Definition]
+.blockquote[
+Durch Projektentwicklungen (im weiteren Sinne)
+sind die Faktoren Standort, Projektidee und Kapital
+so miteinander zu kombinieren, dass einzelwirtschaftlich
+wettbewerbsfähige, Arbeitsplatz schaffende
+und sichernde sowie gesamtwirtschaftlich
+sozial- und umweltverträgliche Immobilienobjekte
+geschaffen und dauerhaft rentabel genutzt werden
+können
+
+.tr[
+`r Citet(bib,"diederichs_grundlagen_1994")`, S. 43.
+]
+]
+]
+.panel[.panel-name[Statisch]
+```{r}
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '100%'
+knitr::include_graphics(xfun::from_root('img','PE_statisch.png'))
+```
+.quellePanURL[Eigene Darstellung nach `r Citet(bib,"diederichs_grundlagen_1994")`, S. 46.]
+]
+.panel[.panel-name[Phasen]
+```{r}
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '100%'
+knitr::include_graphics(xfun::from_root('img','PE_Phasen.png'))
+```
+
+.quellePanURL[Eigene Darstellung.]
+]
+.panel[.panel-name[Typen]
+```{r}
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '100%'
+knitr::include_graphics(xfun::from_root('img','PE_Typen.png'))
+```
+
+.quellePanURL[Eigene Darstellung.]
+]
+]
+
+???
+
+* Trader-Developer: klassischer Projektentwickler
+
+---
+name: Bestandsmanagement
+class: left
+
+# Bestandsmanagement
+
+
+???
+
+Selbst wenn er als Trader Developer die von ihm entwickelte Immobilie nach ihrer Fertigstellung an einen Investor verkauft, berücksichtigt er heute die Bedürfnisse der Nutzungsphase viel stärker als früher. Häufig werden die Experten für die spätere Bewirtschaftung schon in der Konzeptionsphase in das Projektteam integriert. Dies betrifft nicht nur möglichst niedrige Bewirtschaftungskosten durch eine entsprechende Planung und Auswahl geeigneter Materialien, sondern auch größtmögliche Flexibilität der Grundrisse für später zu erwartende Anpassungsleistungen. Während Projektentwickler ihren Kunden früher eher selten Dienstleistungen für die Nutzungsphase angeboten haben (Facility Management, Wohnungseigentums-/WEG-Verwaltung, Betreiberleistungen usw.), haben sie heute die Vorteile der stabilen Einnahmen aus diesen Dienstleistungen entdeckt und ihre Geschäftsmodelle entsprechend erweitert. Falls der Projektentwickler selbst die Leistungen in der Nutzungsphase nicht anbietet, ist er dafür verantwortlich, dass die Übergabe des Projektes nach dessen Fertigstellung als Objekt an den zuständigen Objektmanager (oder auch Facility Manager, WEG-Verwalter usw.) rechtzeitig und reibungslos erfolgt. (Kinateder 2017, S. 530)
+
+
+
+
+---
+class: left
+
+# Normstrategie Exit
+
+```{r}
+#| echo: false
+knitr::include_url(xfun::from_root('lit','VONOVIA-SE_Zwischenmitteilung_Q3_2023-Gesamt.pdf'),height='550px')
+```
+
+
+
+---
+name: ZIA-Index
+class: left
+
+# Wie ist die Stimmung?
+
+```{r}
+#| echo: false
+knitr::include_url('https://zia-deutschland.de/project/zia-iw-immobilienstimmungsindex/',height = '560px')
+``` 
+
+.quelle[Quelle: [ZIA (2023)](https://zia-deutschland.de/project/zia-iw-immobilienstimmungsindex)]
+`r NoCite(bib,"zia_zia-iw-immobilienstimmungsindex_2023")`
+
+
+
+---
+class: left
+
+# Blick voraus
+
+```{r}
+#| echo: false
+#| out-height: '90%'
+knitr::include_graphics('https://www.iwkoeln.de/fileadmin/user_upload/Bilder/Slider/Immobilien/Grafik_Sonderfrage_Q4_2023.png')
+```
+
+.quelle[Quelle: [IW Köln (2023)](https://www.iwkoeln.de/presse/interaktive-grafiken/ralph-henger-michael-voigtlaender-ergebnisse-sonderumfrage-4-quartal-2023.html)]
+`r NoCite(bib,"iw_zia-iw-immobilienstimmungsindex_2023")`
+
+
+
+---
+class: left
+
+# Ausblick bulwiengesa
+
+<iframe width="1020" height="550" src="https://www.youtube.com/embed/tmR5HmKibRo?si=BMe96fRpfMdoIt9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+???
+
+* Büroflächenleerstand auch perspektivisch höher (?)
+* aktuell: hohe Untervermietungsquote
+
+
+---
+name: UBM-CZ
+class: left
+
+# Fallstudie: UBM Development
+
+.panelset[
+.panel[.panel-name[Verkauf]
+```{r}
+#| echo: false
+knitr::include_url('https://www.ubm-development.com/de/presse/ubm-verkauft-liegenschaft-in-tschechien-um-e-11-mio',height='520px')
+```
+]
+.panel[.panel-name[Neukonzeption]
+```{r}
+#| echo: false
+knitr::include_url('https://www.skylineatlas.de/timber-pioneer/',height='520px')
+```
+
+]
+]
+
+
+???
+
+* UBM. Bis zur Pandemie Schwerpunkt auf Hotelentwicklungen. Fertige Immobilien gingen dann an eigene Betreibergesellschaft (Betreiber von Markenhotels, bspw. Holiday Inn Express).
+
+* Im Zuge der Corona-Pandemie hatte UBM eine Umplanung sämtlicher noch nicht in den Bau gegangener Hotelprojekte beschlossen.
+* Timber Pioneer FFM: Auf dem Grundstück war ursprünglich ein konventioneller Hotelbau vorgesehen. 
+
+
+
+
+
 ---
 name: 5prozStudie
 class: left
@@ -436,65 +564,22 @@ class: inverse, center, middle
 .blockquote[Deep Dive: Finanzierungsumfeld und Investmentstrategien]
 
 
-
 ---
-name: MotiveIQ
+name: JLL-quote
 class: left
 
-# Motive für eine ... der Immobilienallokation
 
-.panelset[
-.panel[.panel-name[...Erhöhung...]
-```{r proIQ,echo=FALSE,out.width='80%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/Gruende_Erhoehung_Immobilienquote_(CBRE_2023)_S9.PNG')
-```
+# Wo kommen wir her?
 
-.quellePanURL[Quelle: [CBRE (2023), S. 10](https://www.cbre.de/-/media/project/cbre/shared-site/emea/germany/insights/Investor-Intentions-Survey-Deutschland-2023).]
-
+.blockquote[
+In der Niedrigzinsphase fand nahezu jedes Produkt, das auf den Markt kam, schnell zahlreiche Bieter. Die Risikoklassen verwischten, Core-Plus-Produkte gingen mit einem Zwinkern als Core durch, da Investoren davon ausgingen, dass der Wert in jedem Fall steige – wenn man das Asset nur im Bestand hat.
+.tr[
+[Jones Lang Lasalle (2023)](https://www.jll.de/de/trends-and-insights/investoren/damit-core-auch-core-bleiben-kann)
 ]
-.panel[.panel-name[...Reduzierung...]
-```{r conIQ,echo=FALSE,out.width='80%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/Gruende_Reduzierung_Immobilienquote_(CBRE_2023)_S9.PNG')
-```
-
-.quellePanURL[Quelle: [CBRE (2023), S. 10](https://www.cbre.de/-/media/project/cbre/shared-site/emea/germany/insights/Investor-Intentions-Survey-Deutschland-2023).]
-
-]
+`r NoCite(bib,"jones_lang_lasalle_damit_2023")`
 ]
 
 
-???
-
-* Resultate zeigen, dass momentan eher mit einer Reduzierung von Immobilienquoten zu rechnen ist
-* CBRE Befragung vom Januar 2023
-* Stichprobe n=629 
-
-
-
----
-name: denomEff
-class: left
-
-# Bezugsgrößen-Effekt (Beispiel US Pensionsfonds)
-
-<br>
-<br>
-```{r denoEff,echo=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/Denominator_Effect_US_(CBRE_2022).PNG')
-
-```
-
-.quelle[Quelle: [CBRE (2022).](https://www.cbre.com/insights/briefs/cotw-denominator-effect-takes-hold-as-pension-funds-real-estate-target-to-allocation)]
-
-???
-
-* CBRE (Oktober 2022) USA
-* In **Multiasset-Portfolios** 
-  * kann schlechte Performance anderer Assetklassen (2022 Aktien und Anleihen) dazu führen, 
-  * dass Immobilien verkauft werden müssen, um die  
-  * angestrebten **Portfoliogewichtungen** zu erreichen
-
-* Balken zeigen, wie weit bei den verschiedenen Fonds im Sample die tatsächliche Allokation (2021 bzw. 2022) von der Zielallokation abweicht
 
 
 ---
@@ -548,49 +633,6 @@ knitr::include_graphics('../img/Funding_Gap_2023-2025_(AEW_2022).png')
     * discounted loan sales.
 
 
----
-name: strateg
-class: left
-
-# "Polarisierung" von Investmentstrategien?
-
-.panelset[
-.panel[.panel-name[Transaktionsvolumen...]
-...nach Strategie (Deutschland)
-```{r volstrat,echo=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/Transaktionsvolumen_Risikoprofil_(JLL_2023).png')
-```
-
-.quellePanURL[Quelle: [JLL (2023, S. 5)](https://www.jll.de/content/dam/jll-com/documents/pdf/research/emea/germany/de/Investmentmarktueberblick-JLL-Deutschland.pdf).]
-
-]
-.panel[.panel-name[Investorenabsichten]
-
-Investorenabsichten (Europa)
-```{r invstrat,echo=FALSE,out.width='100%',fig.align='center',cache=TRUE}
-knitr::include_graphics('../img/Investment_Strategien_2022-2023_Europe_(CBRE_2023)_S13.png')
-
-```
-
-.quellePanURL[Quelle: [CBRE (2023, S.13)](https://www.cbre.com/-/media/project/cbre/shared-site/insights/books/2023-book-media-folder/esg-value-drivers-revealed-media-folder/2022_global_esg_survey.pdf).]
-]
-]
-
-
-
-
-???
-
-* JLL zeigt, dass von 2022 auf 2023 in Deutschland
-
-* wieder höhere Risikobereitschaft: Opportunistisch und NPL höhere, Value-Add und Core/Core+ geringere Präferenz
-* Interessant: Im Investor Intention survey für Deutschland  hat die Präferenz für Core von 2022 auf 2023 zugenommen. Insgesamt für Europa aber offenbar Abnahme.
-
-
-
-
-
-
 
 
 
@@ -600,7 +642,7 @@ class: inverse, center, middle
 
 ## Teil 3
 
-## Investmentthemen
+## Umfeld- und Marktanalyse
 
 .blockquote[Makroökonomisches Umfeld]
 
@@ -916,13 +958,6 @@ knitr::include_graphics('../img/RAG_c2c_(bundesstiftung_baukultur).jpg')
 ```
 <br>
 .quellePanURL[Bildquelle: [bundesstiftung-baukultur.de](https://www.bundesstiftung-baukultur.de/baukultur-bundesweit/beispiele-guter-baukultur/detail/rag-stiftung-rag-ag).]
-]
-.panel[.panel-name[Rocket-Haus]
-```{r,echo=FALSE,out.width='35%',fig.align='center'}
-knitr::include_graphics('../img/holzhochhaus_winterthur_(20min_2022).png')
-```
-
-.quellePanURL[Quelle: [20min.ch (27.04.2022)](https://www.20min.ch/story/internationale-medien-feiern-weltweit-groesstes-holz-hochhaus-in-winterthur-401600998185)]
 ]
 .panel[.panel-name[Telekom Redevelopment]
 ```{r,echo=FALSE,out.width='81%',fig.align='center'}
