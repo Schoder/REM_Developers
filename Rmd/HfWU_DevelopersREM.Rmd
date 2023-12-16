@@ -385,7 +385,7 @@ knitr::include_graphics(xfun::from_root('img','PE_statisch.png'))
 ```{r}
 #| echo: false
 #| fig-align: 'center'
-#| out-width: '100%'
+#| out-width: '80%'
 knitr::include_graphics(xfun::from_root('img','PE_Phasen.png'))
 ```
 
