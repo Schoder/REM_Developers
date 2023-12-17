@@ -914,7 +914,7 @@ Bild Wohnungstausch
 .panel[.panel-name[AAL]
 ```{r}
 #| echo: false
-knitr::include_url('https://future-living-berlin.com/')
+knitr::include_url('https://future-living-berlin.com/',height = '520px')
 ```
 ]
 
