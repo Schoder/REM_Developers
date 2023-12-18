@@ -81,6 +81,15 @@ bib <- ReadBib(xfun::from_root("lit","my_bib.bib"))
 `r fa('github')` @Schoder
 `r fa('linkedin')` @jfschoder
 ]
+???
+
+Liebe Studierende, sehr geeherte Mitglieder der Berufungskommission. Ich darf mich zunächst ganz herzlich für die **Einladung nach Geislingen bedanken** und freue mich sehr, in den nächsten 30min über ein sehr spannendes Thema sprechen zu dürfen.
+
+Das Thema ist natürlich **sehr breit** angelegt und ich habe **versucht, möglichst viele auch aktuelle Themen und Zusammenhänge** aufzuzeigen. Wir werden zwar mit **einer Fallstudie auch mal etwas tiefer** in die Materie einsteigen, aber aufgrund der begrenzten Zeit werden wir vieles nur anreissen können.
+
+Ich hoffe, aber, dass ich mit dem Vortrag einige Gedanken stimulieren kann und wir dann in der anschließend vorgesehenen Diskussion noch den einen oder anderen Aspekt vertiefen können.
+
+Noch ein Hinweis, Sie sehen links unten meinen **github-Account**. Dort können Sie im Nachgang meine Folien anschauen, falls Sie Interesse am ein oder anderen link haben, den ich in der Präsentation vielleicht auch nur kurz anteasern kann und auf weiterführende Quellen verweisen muss.  
 
 ---
 layout: true
@@ -125,6 +134,7 @@ knitr::include_graphics(xfun::from_root('img','Signa_(NZZ_20231123).png'))
 
 ???
 
+* Das Thema "Bestandsmanagement von Projektentwicklungsunternehmen" ist nicht nur sehr breit, sondern natürlich auch höchst aktuell, wie das Zitat von JLL und die aktuellen Entwicklungen in der Branche zeigen, auf die ich gleich noch zu sprechen komme.
 
 * Anspruchsvollere Finanzierungen, ESG-Kriterien sowie Fachkräfte- und Materialmangel am Bau drücken auf die Bilanz. „Hier kommt **strategisches Asset Management** ins Spiel, denn es geht um die **langfristige Ausrichtung einer Immobilie oder eines Portfolios** und nicht mehr allein um eine kompakte Sanierung für den schnellen Verkauf“, sagt Alexandra Meyder-Cyrus, Head of Asset Management bei JLL Germany. 
 * Die Dienstleistung hat seine **Funktion somit von einer umsetzenden zu einer strategisch beratenden fortentwickelt**.
@@ -142,7 +152,16 @@ class: inverse, center, middle
 
 .blockquote[Teil 2: Bestandsmanagement: Trends und Notwendigkeiten]
 
-.blockquote[Teil 3: Diskussion]
+.blockquote[Teil 3: Offene Fragen und Diskussion]
+
+
+???
+
+* Was habe ich in den nächsten 30min mit Ihnen vor?
+
+* Meine Ausführungen zum Thema habe ich wie folgt strukturiert.
+
+
 
 ---
 name: icons
@@ -165,7 +184,13 @@ class: left
 
 
 
+???
 
+Ganz kurz möchte ich auch noch einige Lernziele formulieren, die mit der kurzen Probevorlesung erreicht werden sollen.
+
+Ein weiteres wichtiges Lernziel wäre vielleicht, Sie davon zu überzeugen, dass Sie insgesamt viel von mir lernen können und ich vielleicht eine ganz gute Wahl für die Besetzung der Professur wäre😄
+
+OK, legen wir los
 
 
 
@@ -608,10 +633,12 @@ knitr::include_graphics(xfun::from_root('img','Quartier_BWGV.jpg'))
 ???
 
 * Aktuell in der Öffentlichkeit auch stärksten wahrgenommen Repositionierungen
-  * Büroimmobilien Post-Covid
+  * Büroimmobilien Post-Covid. 
   * ehemalige Warenhäuser in zentralen Lagen. Mit mehreren Zehntausend Quadratmetern riesig, komplex im Zuschnitt, mit großer Raumtiefe und wenig natürlichem Lichteinfall. Sie erfordern ein umfassendes Konzept, um für die Zukunft fit gemacht zu werden. Gleiches gilt für manches Shopping-Center. 
 
-* Aber auch Wohnen und Logistikimmobilien haben durch die Entwicklung der jüngsten Zeit einige Hausaufgaben bekommen. Stichwort ESG:
+* Allein zu diesen beiden Thmen könnten ganze Vorlesungen gehalten werden. Vielleicht können wir darauf in der Diskussion noch etwas eingehen.
+
+* An dieser Stelle möchte ich stattdessen noch kurz darauf verweisen, dass auch Wohnen und Logistikimmobilien durch die Entwicklung der jüngsten Zeit einige Hausaufgaben bekommen haben. Stichwort ESG (spielt natürlich auch bei Büro und Handel eine Rolle):
   * Nachfrage von Investoren
   * Investoren fragen es nach, weil es deren Nutzer nachfragen (besonders Office)
   * Finanzierer (Banken) ebenfalls. Angst vor Wertverlusten und wackeligen Finanzierungen
@@ -661,13 +688,15 @@ knitr::include_graphics(xfun::from_root('img','Einordnung_REAM2_(idiw_2011).png'
 
 ???
 
+* Bevor wir auf diese aktuellen Themen eingehen, müssen wir uns ganz kurz noch mit einigen Begrifflichkeiten und Abgrenzungen auseinandersetzen
 
-* Noch viel mehr als beim Projektentwicklungs-Begriff zeigt sich hier die Schwierigkeit von Definitionen, denn bei kaum einem Bereich der Immobilienwirtschaft sind die Begriffe so umstritten wie bei den Elementen oder Bereichen des Bestandsmanagements
+* Noch viel mehr als beim Projektentwicklungs-Begriff zeigt sich hier die Schwierigkeit von Definitionen, denn bei kaum einem Bereich der Immobilienwirtschaft sind die Begriffe so **umstritten wie bei den Elementen oder Bereichen** des Bestandsmanagements
 
 * Am Ende sollten wir uns immer wieder verdeutlichen, dass Definitionen einzug und allein den Zweck haben, ein gemeinsames Verständnis eines Begriffs, also letztlich darum, die Kommunikation effizienter zu machen.
 
 * Ich möchte deshalb nur ganz kurz auf die diversen Abgrenzungsprobleme der Begriffe eingehen und dabei gleich darauf hinweisen, dass man hier sicher 1-2 Stunden trefflich diskutieren könnte. Zu den wesentlichen Streitpunkten gehören die Abgrenzungen zwischen Portfolio- und Assetmanagement sowie zwischen Property- und Facility Management, was nicht heißt, dass ansonsten Einigkeit herrscht (auch Asset- vs. Property ist nicht immer trennscharf).
   * stellvertretend für die überwiegend auch in immobilienwirtschaftlichen Lehrbüchern vertretene Ansicht hier eine Abbildung auseiner aktuellen Veröffentlichung von Oetken/Hofstadler/Meckmann (2021). Zu beachten:
+    * Sie haben versucht, die bestehende Literatur zum Thema zu synthetisieren, um dann zu Fragen, wie und wo Due Diligence in das System integriert werden kann...
     * eher hierarchische Perspektive
     * Asset Management agiert sowohl mit Portfolio- als auch Objektebene
     * Development explizit als Aufgabenbereich des Asset Managements
@@ -943,7 +972,8 @@ knitr::include_graphics('../img/Bev_pyr_D.svg')
 ```{r}
 #| echo: false
 #| fig-align: 'center'
-knitr::include_url(xfun::from_root('lit','degewo_Handout_Tauschportal_D_200421.pdf',height = '520px'))
+#| out-width: '60%'
+knitr::include_graphics(xfun::from_root('img','degewo.png'))
 ```
 <br>
 .quellePanURL[Quelle: [degewo Berlin.](https://www.degewo.de/wohnen-service/vorteile-bei-degewo/wohnungstauschportal)]
@@ -1169,6 +1199,10 @@ class: left
 
 ???
 
+* Natürlich können die heute ausführlicher besprochenen Herausforderungen von Inlfation und höheren Renditen auch weiterhin bestehen bleiben.
+* Hierüber könnten wir in einer eigenen, volkswirtschaftlichen Vorlesung, nachdenken.
+* Neugierige verweise ich an dieser Stelle auf die Diskussion zwischen Lawrence Summers und Olivier Blanchard, die hier als Youtube-Video verlinkt ist.
+
 * Summers und Blanchard 2017 (?) Säkulare Stagnation. Liquiditätsfalle und zero lower bound
 * Nachdem sich die beiden lange Jahre einig waren, schätzen sie die zukünftige Entwicklung nun anders ein:
   * Blanchard betont eher die Bedeutung des Save-Asset-Demand
@@ -1278,7 +1312,7 @@ background-image: url(https://media.giphy.com/media/KJ1f5iTl4Oo7u/giphy.gif)
 name: discussion
 class: inverse, center, middle
 
-# Teil 3: Diskussion
+# Teil 3: Offene Fragen und Diskussion
 
 
 
