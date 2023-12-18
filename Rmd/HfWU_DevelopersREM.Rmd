@@ -1158,6 +1158,29 @@ gelten
    * Zwischen 09/2022 und 02/2023 wurden 307 Fonds von Artikel 9 auf Artikel 8 herabgestuft
    * Hintergrund: Im Vorfeld der neuen Offenlegungsregelung und nach Klarstellung der Aufsichtsbehörden, dass Fonds nach *Artikel 9* **nur in nachhaltige Anlagen** investieren dürfen, haben viele Fondsmanager die **Klassifizierung** ihrer Fonds **überprüft** und **Artikel 9-Produkte auf Artikel 8 herabgestuft**. 
 
+---
+name: BlanchSumm
+class: left
+
+# 🔮 Ende der säkularen Stagnation?
+
+<iframe width="1150" height="520" src="https://www.youtube.com/embed/df5csVeBcrQ?start=3607" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+???
+
+* Summers und Blanchard 2017 (?) Säkulare Stagnation. Liquiditätsfalle und zero lower bound
+* Nachdem sich die beiden lange Jahre einig waren, schätzen sie die zukünftige Entwicklung nun anders ein:
+  * Blanchard betont eher die Bedeutung des Save-Asset-Demand
+  * Summers betont stärker das Verhältnis von Ersparnis und Investition
+  
+* Blanchard glaubt eher an eine Rückkehr in die Vor-Covid-Welt, was die Realzinsen angeht und damit eine dynamisch ineffiziente Situation $r<g$, die aus seiner Sicht für eine aktivere Rolle der Fiskalpolitik spricht.
+* Summers vermutet strukturelle Änderungen und dauerhaft höhere Realzinsen, oberhalb der Wachstumsrate und führt dafür folgende Gründe an, die beide im Video diskutieren:
+  * Geopolitische Veränderungen und Re-Shoring/Near-Shoring aus politischen Gründen
+  * Demografischer Wandel
+  * höherer Investitionsbedarf (bspw. Grüne Infrastruktur)
+
+
 
 ---
 name: digit
