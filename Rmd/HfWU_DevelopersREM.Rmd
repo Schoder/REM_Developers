@@ -151,8 +151,20 @@ class: left
 
 # 🎓 Lernziele 
 
+<br>
 
-🎯 Ich kann das Geschäftsmodell von Projektentwicklungsunternehmen
+🎯 Ich kann das Geschäftsmodell von Projektentwicklungsunternehmen erläutern.
+
+🎯 Ich bin in der Lage die Effekte von Zinsänderungen auf das Geschäftsmodell von Projektentwicklern modellhaft zu analysieren.
+
+🎯 Ich kann begründen warum ein aktives Bestandsmanagement grundsätzlich Teil des Geschäftsmodells von Projektentwicklungsunternehmen ist.
+
+🎯 Ich kann die besonderen Gründe für ein aktives Bestandsmanagement in der aktuellen Situation erläutern.
+
+🎯 Ich bin in der Lage die aktuellen Herausforderungen von Projektentwicklungsunternehmen zu analysieren und strategische Implikationen abzuleiten.
+
+
+
 
 
 
@@ -254,7 +266,7 @@ Projektentwickler als Bestandhalter?
 name: PEU
 class: left
 
-# Projektentwicklung als Schnittstellenfunktion
+# 🤴 Projektentwicklung als Schnittstellenfunktion
 
 
 ```{r}
@@ -366,7 +378,7 @@ knitr::include_graphics(xfun::from_root('img','yieldcurve_Euro.svg'))
 
 .quellePanURL[Eigene Darstellung. Datenquelle: [EZB (2023)](https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_area_yield_curves/html/index.en.html).]
 ]
-.panel[.panel-name[Spitzenrenditen]
+.panel[.panel-name[Brutto-Anfangsrenditen]
 ```{r}
 #| echo: false
 #| fig-align: 'center'
@@ -387,6 +399,7 @@ knitr::include_graphics(xfun::from_root('img','Spitzenrendite_Office_(Colliers_2
 
 * AAA-Staatsanleihen Laufzeiten 5-10 Jahre: Anstieg der Renditen um 150-200 Basispunkte
 
+* Bruttoanfangsrendite: Nettojahresmiete (inkl. nicht umlagefähige Betriebskosten) im Verhältnis zum Anschaffungswert (ohne Erwerbsnebenkosten)
 * Büro (Colliers-Daten): Anstieg der Spitzenrendite (=Bruttoanfangsrendite) um 120-150 Basispunkte
 * Bulwiengesa-Daten: Netto-Anfangsrenditen in Top7-Städten ca. 100 Basispunkte
 
@@ -857,7 +870,8 @@ class: left
 
 ```{r}
 #| echo: false
-#| out-width: '100%'
+#| out-width: '65%'
+#| fig-align: 'center'
 knitr::include_graphics(xfun::from_root('img','Joint_Ventures_PE_(IM_2020).png'))
 ```
 
@@ -870,6 +884,11 @@ knitr::include_graphics(xfun::from_root('img','Joint_Ventures_PE_(IM_2020).png')
 * Beispiel UBM. Eigentlich Trading-Developer. Aufgrund der aktuellen Situation wird der Timber Pioneer in FFM aber vorerst im Bestand gehalten, bis bessere Verkaufspreise erzielt werden können.
   * Bestehender Mietvertrag und Notwendigkeit der Gebäudebewirtschaftung
   * UBM will wohl eigenens Asset- und Propertymanagement aufbauen
+  * UBM hat bereits Erfahrung im Betreiben von Immobilien (Tochtergesellschaft betreibt von UBM entwickelte Hotels für Markenhotellerie, bspw Holiday In Express)
+
+* Developer haben schon länger die Attraktivität von "gebäudenahen" Dienstleistungen zur Stabilisierung von Cash-Flows für sich entdeckt (Kinateder, 2017):
+  * Während Projektentwickler ihren Kunden früher eher selten Dienstleistungen für die Nutzungsphase angeboten haben (**Facility Management, Wohnungseigentums-/WEG-Verwaltung, Betreiberleistungen usw.**), 
+  * haben sie heute die Vorteile der stabilen Einnahmen aus diesen Dienstleistungen entdeckt und ihre Geschäftsmodelle entsprechend erweitert. 
 
 * Grundsätzlich wäre natürlich auch ein Outsourcing möglich
 
@@ -881,6 +900,18 @@ name: Umfeld
 class: left
 
 # Trends und Herausforderungen
+
+```{r}
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '80%'
+knitr::include_graphics(xfun::from_root('img','challenges_dreieck.png'))
+```
+
+
+
+
+???
 
 * Demografie
 
@@ -900,7 +931,7 @@ class: left
 
 .panelset[
 .panel[.panel-name[Alterung]
-```{r,echo=FALSE,out.width='100%',fig.align='center'}
+```{r,echo=FALSE,out.width='90%',fig.align='center'}
 knitr::include_graphics('../img/Bev_pyr_D.svg')
 ```
 
@@ -909,12 +940,19 @@ knitr::include_graphics('../img/Bev_pyr_D.svg')
 
 ]
 .panel[.panel-name[Flächenkonsum]
-Bild Wohnungstausch
+```{r}
+#| echo: false
+#| fig-align: 'center'
+knitr::include_url(xfun::from_root('lit','degewo_Handout_Tauschportal_D_200421.pdf',height = '520px'))
+```
+<br>
+.quellePanURL[Quelle: [degewo Berlin.](https://www.degewo.de/wohnen-service/vorteile-bei-degewo/wohnungstauschportal)]
 ]
 .panel[.panel-name[AAL]
 ```{r}
 #| echo: false
-knitr::include_url('https://future-living-berlin.com/',height = '520px')
+#| fig-align: 'center'
+knitr::include_url('https://future-living-berlin.com/',height = '480px')
 ```
 ]
 
@@ -1137,7 +1175,7 @@ knitr::include_graphics('../img/Unruh_Kiron_(MIT_2018).png')
 
 ]
 .panel[.panel-name[Bautechnik]
-```{r,echo=FALSE,out.width='100%',fig.align='center'}
+```{r,echo=FALSE,out.width='90%',fig.align='center'}
 knitr::include_graphics(xfun::from_root('img','Serielles_Bauen_(tagesschau).PNG'))
 ```
 
@@ -1178,22 +1216,30 @@ class: left
 
 # Key Learnings
 
-* Veränderungen des makroökonomischen Umfelds lässt klassische Projektentwicklungen (Trading-Developers) wackeln
+
+* Veränderungen des makroökonomischen Umfelds lässt klassische Projektentwicklungen (Trading-Developers) wackeln.
 
 --
-* Cash ist King. Wer kann baut fertig und hält (gute) Objekte in der Hoffnung auf Erholung bei den Verkaufspreisen
+
+* Liquidität und Flexibilität: Wer kann baut fertig und hält (gute) Objekte in der Hoffnung auf Erholung bei den Verkaufspreisen.
 
 --
+
 * Aktives Bestandsmanagement mehr denn je erforderlich, ggf. auch unter Rückgriff auf Netzwerke
 
 --
+
 * Vorausschauende Konzepte erforderlich
+
+--
   * EU Green Deal Strategie
+--
+
   * Künftig verstärkt Entwicklung im Bestand (GHG Protokoll)
+
+--
   * Zertifizierungen als Herausforderung und Synergien von Digitalisierung und Nachhaltigkeit
   
-
-
 
 
 

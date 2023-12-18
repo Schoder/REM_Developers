@@ -453,6 +453,24 @@ knitr::include_graphics('https://www.iwkoeln.de/fileadmin/user_upload/Bilder/Sli
 `r NoCite(bib,"iw_zia-iw-immobilienstimmungsindex_2023")`
 
 
+---
+class: left
+
+# Geschäftsmodell Vonovia Development
+
+
+.blockquote[
+Geschäftsmodell Development
+<br>
+"Konzeptionelle und technische Lösungen für die ressourcenschonende Errichtung und den nachhaltigen Betrieb von Wohnquartieren sind ein zentraler Bestandteil des Geschäftsmodells im Development. In den drei Schwerpunktthemen Urbanisierung, Energieeffizienz und demografischer Wandel werden zentrale Aspekte der Nachhaltigkeit bereits in den Frühphasen der Projektentwicklung berücksichtigt. Dies umfasst die Konzeption sozial gemischter Quartiere mit Wohnraum für alle Generationen, die Realisierung von energieeffizienten Neubauprojekten für den ökologisch nachhaltigen Betrieb durch Erwerber sowie für den CO2-neutralen Bestand und die Schaffung von barrierefreiem und barrierearmem Wohnraum für eine älter werdende Gesellschaft mit veränderten Wohnbedürfnissen.
+
+Nachhaltigkeit wird dabei über die gesamte Wertschöpfungskette der Wohnimmobilien realisiert – von der Auswahl möglichst ökologischer und kreislauffähiger Baumaterialien über die Beauftragung lokal agierender Gewerke und Dienstleister bis hin zum nachhaltigen Betrieb der Developmentprojekte.
+.tr[
+- [Vonovia (2023, S. 86).](https://report.vonovia.de/2022/q4/de/portfolio-im-developmentgeschaeft/)
+]
+
+
+
 
 ---
 class: left
