@@ -1188,6 +1188,42 @@ gelten
    * Zwischen 09/2022 und 02/2023 wurden 307 Fonds von Artikel 9 auf Artikel 8 herabgestuft
    * Hintergrund: Im Vorfeld der neuen Offenlegungsregelung und nach Klarstellung der Aufsichtsbehörden, dass Fonds nach *Artikel 9* **nur in nachhaltige Anlagen** investieren dürfen, haben viele Fondsmanager die **Klassifizierung** ihrer Fonds **überprüft** und **Artikel 9-Produkte auf Artikel 8 herabgestuft**. 
 
+
+
+---
+name: Buildage
+class: left
+
+# "Wir sind die 99%"
+
+```{r} 
+#| echo: false
+#| fig-align: 'center'
+#| out-width: '100%'
+#| fig-cap: "Altersstruktur von Wohngebäuden"
+#| fig-topcaption: true
+knitr::include_graphics(xfun::from_root("img/BuildStock_Age_D.svg"))
+```
+
+.quelle[Eigene Darstellung. Datenbasis: [destatis (2020)](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Wohnen/Tabellen/wohneinheiten-nach-baujahr.html).]
+
+???
+
+* In Anlehnung an Occupy Wallstreet. 99% der Immobilien sind Bestandsimmobilien.
+  * Entwicklung
+  * Altersstruktur
+* EU-Richtlinie über die Gesamtenergieeffizienz von Gebäuden (Energy Performance of Buildings Directive, EPBD)
+* Aktuell plant die EU eine Novellierung der Energy performance of buildings directive (EBPD), die noch dieses Jahr finalisiert werden soll. Noch fehlen Ausformulierungen der technischen Anforderungen zu den übrigen vier von sechs Umweltzielen im Rahmen der Taxonomieverordnung; was möglicherweise zu einer Verschiebung auf Ende 2023 bzw. Anfang 2024 führt. Besonders das vierte Umweltziel **"Übergang zu einer Kreislaufwirtschaft" wird Projektentwickler und Bauunternehmen vor neue**, besonders anspruchsvolle **Herausforderungen stellen**. [Colliers (2023)](https://citysurvey.colliers.de/makrookonomisches-umfeld/)
+
+
+* Ein erster Meilenstein war die EPBD 2010: verpflichtung der Mitgliedsländer zur Setzung von Mindeststandards
+  * Forschung seither vielfach auf Basis von **Normgebäuden und Einzelfallanalysen**. [Hummel et al. (2023)](): "Often, a remarkable number of refurbishment and heating system change options are also considered. At the same time, **taking into account resource restrictions as well as interactions in the entire energy system is not possible at this analysis level**. Therefore, it is not possible to upscale the results of the cost-optimality calculations for single buildings or building types to the national or EU level to understand cost-optimal saving levels (vgl. [Hummel et al](https://link.springer.com/article/10.1007/s12053-023-10097-6)).
+  * Studien auf **Stadt- oder Regionalebene** mit Einbeziehung von **Fernwärmenetzen** (disrict heating)
+  * "Henning and Palzer (2014) developed the REMod-D model for optimising energy systems at the national level. [..] [T]hey conclude that ambitious levels of heat savings in building retrofitting will be needed to reach 100% renewable energy in heat and electricity use, considering that full exploitation of technical resource potentials will most probably not be possible."
+
+
+
+
 ---
 name: BlanchSumm
 class: left
